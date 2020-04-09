@@ -1,0 +1,34 @@
+title{
+    font-weight : bold;
+}
+h1{
+    font-weight : bold;
+    text-align : center;
+}
+#First-Photo{
+    width : 20%;
+    height : 20%;
+    border : 5px solid black;
+    float : right;
+    position : static;
+}
+#References{
+    font-weight : bold;
+    width : 800px;
+    border : 5px solid black;
+    padding : 5px;
+    margin : 20px;
+}
+#name-box{
+    text-align:center;
+    font-size : 125%;
+    font-weight : bold;
+}
+#Summary{
+    margin-bottom:100px
+}
+.social-media{
+    justify-content:flex-end;
+    padding-left : 900px;
+    max-width : 5%;
+}

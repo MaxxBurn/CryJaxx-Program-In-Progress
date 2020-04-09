@@ -1,0 +1,2459 @@
+
+
+
+{
+ "kind": "youtube#playlistItemListResponse",
+ "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/wTZzX-9PbIZqfgGcY4k2X4O8ugg\"",
+ "nextPageToken": "CDIQAA",
+ "pageInfo": {
+  "totalResults": 68,
+  "resultsPerPage": 50
+ },
+ "items": [
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/OheJfwTZ-ZAJsUgwMJhIJtIbyo0\"",
+   "id": "UExXeHplTXN3OWM3UWZCMTRRSEFZOFVydjdjSXJUb21TZC4wN0FBRUVFNEVBMTZBQ0Mx",
+   "snippet": {
+    "publishedAt": "2020-03-31T22:38:28.000Z",
+    "channelId": "UCB_svpQtSv-VqSLBvjijGXQ",
+    "title": "CryJaxx - G.D.F.R",
+    "description": "🔥 Stream: https://open.spotify.com/album/2yz3CyqwF9pJKIuEyXf0qP\n\n🔊 Follow Dubstep  N Trap:\r\nYouTube -https://www.youtube.com/c/dubstepntrap2?sub_confirmation=1\r\nhttp://twitter.com/dubstepNtrap\r\nhttp://fb.com/DubstepNTrap/\r\nhttp://fb.com/Dubstep.BG\r\nhttps://instagram.com/dubstepntrap/\r\n\r\n🔊 Follow CryJaxx:\nhttps://soundcloud.com/CryJaxx\nhttps://instagram.com/cryjaxx/\nhttps://open.spotify.com/artist/4FidvjA9dxE6bhpHGC6ns9\nhttps://youtube.com/c/CryJaxx\nhttps://fb.com/CryJaxx\r\n\r\n\r\n⚠️ These videos may cause people with photosensitive epilepsy to convulse in seizures. Viewer discretion is advised.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/qaB1A7SVlA4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/qaB1A7SVlA4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/qaB1A7SVlA4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/qaB1A7SVlA4/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/qaB1A7SVlA4/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "CRYJAXX",
+    "playlistId": "PLWxzeMsw9c7QfB14QHAY8Urv7cIrTomSd",
+    "position": 0,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "qaB1A7SVlA4"
+    }
+   },
+   "contentDetails": {
+    "videoId": "qaB1A7SVlA4",
+    "videoPublishedAt": "2020-03-31T22:30:04.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/hjvvdXQ49k-h2IqxBg4Em6y0tYs\"",
+   "id": "UExXeHplTXN3OWM3UWZCMTRRSEFZOFVydjdjSXJUb21TZC4yOTZGRTNEQ0ZGNUM5RDgw",
+   "snippet": {
+    "publishedAt": "2020-03-31T22:36:59.000Z",
+    "channelId": "UCB_svpQtSv-VqSLBvjijGXQ",
+    "title": "CJMR - Le Strings (Broken)",
+    "description": "download for free here:\nhttps://soundcloud.com/cjmrmusic/lestrings",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/V9pEADLLfqY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/V9pEADLLfqY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/V9pEADLLfqY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/V9pEADLLfqY/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/V9pEADLLfqY/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "CRYJAXX",
+    "playlistId": "PLWxzeMsw9c7QfB14QHAY8Urv7cIrTomSd",
+    "position": 1,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "V9pEADLLfqY"
+    }
+   },
+   "contentDetails": {
+    "videoId": "V9pEADLLfqY",
+    "videoPublishedAt": "2020-03-15T12:16:16.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/S8nRW-tJQWnw0q3bWSjGdAqbOws\"",
+   "id": "UExXeHplTXN3OWM3UWZCMTRRSEFZOFVydjdjSXJUb21TZC4zNDIxRUJGQThFRTg1QzAy",
+   "snippet": {
+    "publishedAt": "2020-03-31T22:37:41.000Z",
+    "channelId": "UCB_svpQtSv-VqSLBvjijGXQ",
+    "title": "Lookas - Redline (CryJaxx Remix)",
+    "description": "Lookas - Redline (CryJaxx Remix)\n\nListen to the original track by Lookas:\n• https://soundcloud.com/lookasmusic/lookasredline\n\n_________________________________________________________________\nFollow CryJaxx\n• https://www.cryjaxx.com\n• https://www.instagram.com/CryJaxx\n• https://www.soundcloud.com/CryJaxx\n• https://www.facebook.com/CryJaxx\n• https://www.twitter.com/CryJaxx\n• https://www.youtube.com/c/CryJaxx\n• https://open.spotify.com/artist/4FidvjA9dxE6bhpHGC6ns9\n• https://itun.es/us/5D2Z7\n\nFollow Lookas\n• https://www.soundcloud.com/lookasmusic\n• https://www.instagram.com/lookas/\n• https://www.twitter.com/Lookas\n• https://www.youtube.com/user/lookasmusic",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/n01L5jwZZng/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/n01L5jwZZng/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/n01L5jwZZng/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/n01L5jwZZng/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/n01L5jwZZng/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "CRYJAXX",
+    "playlistId": "PLWxzeMsw9c7QfB14QHAY8Urv7cIrTomSd",
+    "position": 2,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "n01L5jwZZng"
+    }
+   },
+   "contentDetails": {
+    "videoId": "n01L5jwZZng",
+    "videoPublishedAt": "2020-02-21T18:27:58.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/l955cb0oxw3HW5DbjPDWUy967HE\"",
+   "id": "UExXeHplTXN3OWM3UWZCMTRRSEFZOFVydjdjSXJUb21TZC5CQzUwREI3MzkxQjdBM0E0",
+   "snippet": {
+    "publishedAt": "2019-12-29T16:17:33.000Z",
+    "channelId": "UCB_svpQtSv-VqSLBvjijGXQ",
+    "title": "CryJaxx, hope it & DizzyEight - War Flaut",
+    "description": "🔥 CryJaxx, hope it & DizzyEight - War Flaut (OUT NOW)\n⤷ https://fanlink.to/warflaut\n\n🔔 Subscribe and turn on notifications to stay updated! #TRIBALTRAP\n⤷ http://bit.ly/TribalSub\n\nMore like this? Follow our Spotify Playlists:\n⤷ 🚗 Car Music: https://spoti.fi/2lyZ2zp\n⤷ 🏆 All Our Releases: https://spoti.fi/2lGUwP3\n⤷ 🔊 Bass Boosted: https://spoti.fi/2k0AgHO\n\nCryJaxx:\nx https://soundcloud.com/CryJaxx\nx https://www.instagram.com/CryJaxx/\nx https://www.facebook.com/CryJaxx\nx https://twitter.com/CryJaxx\n\nDizzyEight:\nx https://soundcloud.com/dizzyeight\nx https://twitter.com/DeezyEight\nx https://www.instagram.com/dizzyeight/\n\nTribal Trap:\nx https://soundcloud.com/tribaltrapmusic\nx https://www.instagram.com/tribaltrap\nx https://open.spotify.com/user/tribaltrap\n\n📥 Send in your own tunes!\nsubmissions(at)tribaltrap(dot)com\n\nCryJaxx, hope it & DizzyEight - War Flaut\n#Trap #CryJaxx #WarFlaut\n⤷  Copyright issues: copyright@tribaltrap.com",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/sUF8oa62h_g/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/sUF8oa62h_g/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/sUF8oa62h_g/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/sUF8oa62h_g/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/sUF8oa62h_g/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "CRYJAXX",
+    "playlistId": "PLWxzeMsw9c7QfB14QHAY8Urv7cIrTomSd",
+    "position": 3,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "sUF8oa62h_g"
+    }
+   },
+   "contentDetails": {
+    "videoId": "sUF8oa62h_g",
+    "videoPublishedAt": "2019-12-27T19:54:18.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/blYGIl2nw-bj-WtL26Y4ipdk14w\"",
+   "id": "UExXeHplTXN3OWM3UWZCMTRRSEFZOFVydjdjSXJUb21TZC40OTQ5QjlEMDgzN0FBNUIw",
+   "snippet": {
+    "publishedAt": "2019-12-08T20:17:57.000Z",
+    "channelId": "UCB_svpQtSv-VqSLBvjijGXQ",
+    "title": "CryJaxx - Beautiful Liar",
+    "description": "🔥 CryJaxx - Beautiful Liar (OUT NOW)\n⤷ https://fanlink.to/beautifulliar\n\n🔔 Subscribe and turn on notifications to stay updated! #TRIBALTRAP\n⤷ http://bit.ly/TribalSub\n\nMore like this? Follow our Spotify Playlists:\n⤷ 🚗 Car Music: https://spoti.fi/2lyZ2zp\n⤷ 🏆 All Our Releases: https://spoti.fi/2lGUwP3\n⤷ 🔊 Bass Boosted: https://spoti.fi/2k0AgHO\n\nCryJaxx:\nhttps://soundcloud.com/cryjaxx\nhttps://twitter.com/CryJaxx\nhttps://www.instagram.com/CryJaxx/\n\nTribal Trap:\nx https://soundcloud.com/tribaltrapmusic\nx https://www.instagram.com/tribaltrap\nx https://open.spotify.com/user/tribaltrap\n\n📥 Send in your own tunes!\nsubmissions(at)tribaltrap(dot)com\n\nCryJaxx - Beautiful Liar\n#Trap #CryJaxx #BeautifulLiar\n⤷  Copyright issues: copyright@tribaltrap.com",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/3KWAO5JMnzs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/3KWAO5JMnzs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/3KWAO5JMnzs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/3KWAO5JMnzs/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/3KWAO5JMnzs/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "CRYJAXX",
+    "playlistId": "PLWxzeMsw9c7QfB14QHAY8Urv7cIrTomSd",
+    "position": 4,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "3KWAO5JMnzs"
+    }
+   },
+   "contentDetails": {
+    "videoId": "3KWAO5JMnzs",
+    "videoPublishedAt": "2019-12-06T19:06:41.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/QM2WKTqMeyGmreOe-xHj6CuXkHU\"",
+   "id": "UExXeHplTXN3OWM3UWZCMTRRSEFZOFVydjdjSXJUb21TZC5GNzk2RTlDQTNCQzJCQzJG",
+   "snippet": {
+    "publishedAt": "2019-11-22T14:01:11.000Z",
+    "channelId": "UCB_svpQtSv-VqSLBvjijGXQ",
+    "title": "CryJaxx - You Need You (feat. Rosendale) (Magic Free Release)",
+    "description": "✔️ Stream/Download: https://fanlink.to/yndy\n🎮 Listen Now: https://lnk.to/MagicGaming (Spotify Gaming Playlist)\n🚀 Full Catalog Access & Usage Policy: https://m.me/magicmusicsquad\n⚡  Magic Instagram: http://bit.ly/2Iny5FN\n👉  Submit DEMO to Magic Records : https://bit.ly/2rrL9m0\n-----------------------------------------------------------------------------------------------\n⚠️⚠️⚠️ HOW TO USE & CREDIT OUR MUSIC⚠️⚠️⚠️\nAll \"Magic Releases\" are FREE TO USE & FREE TO MONETIZE!!\nPlease COPY & PASTE this in your video description!!\n\nTrack: CryJaxx - You Need You (feat  Rosendale)\nMusic Provided by Magic Records\nListen To The Original: https://youtu.be/TrNkLZbWf9o\nFree Download: https://fanlink.to/yndy\n\n---------------------------------------------------------------------\n📧 Contact us: hi@magicmusic.io \n---------------------------------------------------------------------\n\n✔️ CryJaxx\nhttps://www.instagram.com/CryJaxx\nhttps://www.youtube.com/CryJaxx\nhttps://www.soundcloud.com/CryJaxx\nhttps://www.facebook.com/CryJaxx\nhttps://www.twitter.com/CryJaxx\n\n✔️ Rosendale\nhttps://www.youtube.com/RosendaleSings\nhttps://www.facebook.com/RosendaleSings\nhttps://www.instagram.com/RosendaleSings\n\n\n---------------------------------------------------------------------\n\n\n....\nTrap\nTrap Music\nTrap Mix 2019\nTrap and Bass\nEDM\nMagic Music\nTrap Remix\n#magicmusic",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/TrNkLZbWf9o/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/TrNkLZbWf9o/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/TrNkLZbWf9o/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/TrNkLZbWf9o/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/TrNkLZbWf9o/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "CRYJAXX",
+    "playlistId": "PLWxzeMsw9c7QfB14QHAY8Urv7cIrTomSd",
+    "position": 5,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "TrNkLZbWf9o"
+    }
+   },
+   "contentDetails": {
+    "videoId": "TrNkLZbWf9o",
+    "videoPublishedAt": "2019-11-22T13:00:07.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/OEsfJ5bXJhr7rwW5WoAKZoMYxxY\"",
+   "id": "UExXeHplTXN3OWM3UWZCMTRRSEFZOFVydjdjSXJUb21TZC5EMUJFNzRCNDRFQjE5RjM4",
+   "snippet": {
+    "publishedAt": "2019-11-09T16:30:14.000Z",
+    "channelId": "UCB_svpQtSv-VqSLBvjijGXQ",
+    "title": "Marin Hoxha, CryJaxx & Kynez - As I Am (ft. jfarr) (Magic Free Release)",
+    "description": "✔️ Stream/Download: https://fanlink.to/asIam\n🎮 Listen Now: https://lnk.to/MagicGaming (Spotify Gaming Playlist)\n🚀 Full Catalog Access & Usage Policy: https://m.me/magicmusicsquad\n⚡  Magic Instagram: http://bit.ly/2Iny5FN\n👉  Submit DEMO to Magic Records : https://bit.ly/2rrL9m0\n-----------------------------------------------------------------------------------------------\n⚠️⚠️⚠️ HOW TO USE & CREDIT OUR MUSIC⚠️⚠️⚠️\nAll \"Magic Releases\" are FREE TO USE & FREE TO MONETIZE!!\nPlease COPY & PASTE this in your video description!!\n\nTrack: Marin Hoxha, CryJaxx & Kynez - As I Am (ft. jfarr) (Magic Free Release)\nMusic Provided by Magic Records\nListen To The Original: https://youtu.be/9dKQgODz0a0\nFree Download: https://fanlink.to/asIam\n\n---------------------------------------------------------------------\n📧 Contact us: hi@magicmusic.io \n---------------------------------------------------------------------\n\n✔️ CryJaxx\nhttps://www.instagram.com/CryJaxx\nhttps://www.soundcloud.com/CryJaxx\nhttps://www.youtube.com/c/CryJaxx  \nhttps://www.facebook.com/CryJaxx\nhttps://www.twitter.com/CryJaxx\n\n✔️ Marin Hoxha\nhttps://www.instagram.com/marin.hoxha\nhttps://www.soundcloud.com/marin-hoxha\nhttps://www.facebook.com/Marinhoxhamusic\nhttps://www.twitter.com/MarinHoxha\nhttps://www.youtube.com/channel/UCnAbketHOrqM3cpsTv-vFAw\n\n✔️ Kynez\nhttps://www.instagram.com/kynezmusic\nhttps://www.soundcloud.com/officialkynez\nhttps://www.facebook.com/Kynezmusic\nhttps://www.youtube.com/channel/UCgMZc5M26JpdbFB1nNrcgQw\n\n✔️ jfarr\nhttps://www.instagram.com/officialjfarr\nhttps://www.soundcloud.com/jfarr-music\nhttps://www.twitter.com/officialjfarr\nhttps://www.facebook.com/officialjfarr\n \n\n✔️ Artwork: \n\n---------------------------------------------------------------------\n\n\n....\nTrap\nTrap Music\nTrap Mix 2019\nTrap and Bass\nEDM\nMagic Music\nTrap Remix\n#magicmusic",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/9dKQgODz0a0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/9dKQgODz0a0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/9dKQgODz0a0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/9dKQgODz0a0/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/9dKQgODz0a0/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "CRYJAXX",
+    "playlistId": "PLWxzeMsw9c7QfB14QHAY8Urv7cIrTomSd",
+    "position": 6,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "9dKQgODz0a0"
+    }
+   },
+   "contentDetails": {
+    "videoId": "9dKQgODz0a0",
+    "videoPublishedAt": "2019-11-08T14:30:28.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/wbgqy1taQJmTz1NYBpzcGohHmRk\"",
+   "id": "UExXeHplTXN3OWM3UWZCMTRRSEFZOFVydjdjSXJUb21TZC5CNEYyNTVBNDdGMDI1MDNC",
+   "snippet": {
+    "publishedAt": "2019-10-23T19:55:39.000Z",
+    "channelId": "UCB_svpQtSv-VqSLBvjijGXQ",
+    "title": "CryJaxx - Helios",
+    "description": "🔥CryJaxx - Helios (OUT NOW)\n⤷ https://fanlink.to/HELIOS\n\n🔔 Subscribe and turn on notifications to stay updated! #TRIBALTRAP\n⤷ http://bit.ly/TribalSub\n\nMore like this? Follow our Spotify Playlists:\n⤷ 🚗 Car Music: https://spoti.fi/2lyZ2zp\n⤷ 🏆 All Our Releases: https://spoti.fi/2lGUwP3\n⤷ 🔊 Bass Boosted: https://spoti.fi/2k0AgHO\n\nCryJaxx:\nx https://soundcloud.com/cryjaxx\nx https://www.instagram.com/CryJaxx/\nx https://www.youtube.com/c/CryJaxx\nx https://www.facebook.com/CryJaxx\nx https://twitter.com/CryJaxx\n\nTribal Trap:\nx https://soundcloud.com/tribaltrapmusic\nx https://www.instagram.com/tribaltrap\nx https://open.spotify.com/user/tribaltrap\n\n📥 Send in your own tunes!\nsubmissions(at)tribaltrap(dot)com\n\nCryJaxx - Helios\n#Trap #CryJaxx #Helios\n⤷  Copyright issues: copyright@tribaltrap.com",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/UKpus1d7N5I/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/UKpus1d7N5I/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/UKpus1d7N5I/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/UKpus1d7N5I/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/UKpus1d7N5I/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "CRYJAXX",
+    "playlistId": "PLWxzeMsw9c7QfB14QHAY8Urv7cIrTomSd",
+    "position": 7,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "UKpus1d7N5I"
+    }
+   },
+   "contentDetails": {
+    "videoId": "UKpus1d7N5I",
+    "videoPublishedAt": "2019-10-23T17:10:54.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/vI-BD3Zw81YK0hBEEOj5rROyQxM\"",
+   "id": "UExXeHplTXN3OWM3UWZCMTRRSEFZOFVydjdjSXJUb21TZC43ODA2MDVCQzY5QzZDMjUw",
+   "snippet": {
+    "publishedAt": "2019-12-01T18:42:06.000Z",
+    "channelId": "UCB_svpQtSv-VqSLBvjijGXQ",
+    "title": "Z & Z, Marin Hoxha & CryJaxx - Brave (feat. Sarah de Warren)",
+    "description": "FOLLOW OUR BRAND NEW PLAYLISTS (Updated Weekly):\n🔥 Trap Nation - our premiere playlist on Spotify:  http://spoti.fi/237iVZi\n🍏Trap Nation on Apple Music: https://apple.co/2AcAWz7\n🗺️HEAT MAP - the freshest artists and songs that you need to be paying attention to: https://spoti.fi/2nUmQ1H\n\nAdditional Spotify Playlists:\n🌙Afterhours: https://spoti.fi/2Ydzsyo\n💪Workout: http://spoti.fi/2sz8G7R\n🍦Chill Trap: http://spoti.fi/2qjSxy6\n\n🗣️ Connect with Me:\nhttps://instagram.com/benz\n\n✉️ Submit your music: https://trap.nations.io\n\n 📻Trap Nation Radio Live Every Wednesday on SiriusXM Channel 52\n✗ https://podcasts.apple.com/us/podcast/trap-nation-radio/id1328005034\n✗ https://soundcloud.com/alltrapnationradio\n\n\nFOLLOW 📣 Trap Nation EVERYWHERE\n✗ https://instagram.com/trapnation\n✗ https://linkr.in/trapnation\n\n\nSONG INFO:\nZ & Z, Marin Hoxha & CryJaxx - Brave (feat. Sarah de Warren)\n↪︎ https://lowly.ffm.to/brave\n\n🎵 Z & Z\n✗ https://soundcloud.com/zandzofficial  \n\n🎵 Marin Hoxha\n✗ https://soundcloud.com/marin-hoxha\n\n🎵 CryJaxx\n✗ https://soundcloud.com/CryJaxx\n\n🎵 Sarah de Warren\n✗ https://soundcloud.com/sarah-de-warren",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/zIZxCzhY35k/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/zIZxCzhY35k/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/zIZxCzhY35k/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/zIZxCzhY35k/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/zIZxCzhY35k/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "CRYJAXX",
+    "playlistId": "PLWxzeMsw9c7QfB14QHAY8Urv7cIrTomSd",
+    "position": 8,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "zIZxCzhY35k"
+    }
+   },
+   "contentDetails": {
+    "videoId": "zIZxCzhY35k",
+    "videoPublishedAt": "2019-12-01T18:15:00.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/GN8_8-fA19JEP_OtGsozzFMtGLs\"",
+   "id": "UExXeHplTXN3OWM3UWZCMTRRSEFZOFVydjdjSXJUb21TZC5ERENFNTk4Q0Q2MTZDMTA5",
+   "snippet": {
+    "publishedAt": "2019-10-08T08:32:34.000Z",
+    "channelId": "UCB_svpQtSv-VqSLBvjijGXQ",
+    "title": "CryJaxx - The Time Is Now (ft.  Benja & Mojo) (Lyrics Video)",
+    "description": "CryJaxx - The Time Is Now (ft.  Benja & Mojo) (Lyrics Video)\n✔️ Stream/Download: https://fanlink.to/cbFU\n💪 Listen Now: https://lnk.to/MagicFitness (Workout Trap Playlist)\n🚀 Full Catalog Access & Usage Policy: https://m.me/magicmusicsquad\n⚡  Magic Instagram: http://bit.ly/2Iny5FN\n👉  Submit DEMO to Magic Records : https://bit.ly/2rrL9m0\n----------------------------------------------------------------------------------------------\n---------------------------------------------------------------------\n📧 Contact us: hi@magicmusic.io \n---------------------------------------------------------------------\n\n✔️ CryJaxx\nhttps://www.soundcloud.com/CryJaxx\nhttps://www.instagram.com/CryJaxx\nhttps://www.youtube.com/c/CryJaxx  \nhttps://www.facebook.com/CryJaxx\nhttps://www.twitter.com/CryJaxx\n\n✔️ Benja\nhttps://www.soundcloud.com/thabenjaofficial  \nhttps://www.instagram.com/tha_benja\nhttps://www.youtube.com/channel/UCZ8FHw2UykeAGPuEq7LUEfg  \n\n✔️ Mojo\nhttps://www.soundcloud.com/mojostyles  \nhttps://www.instagram.com/mojo_0118\n\n✔️ Visual Background by mantissa.xyz\nhttps://www.instagram.com/mantissa.xyz/\nhttps://www.youtube.com/midgesinnaeve\nhttps://twitter.com/the_mantissa\n\n---------------------------------------------------------------------\n\n\n....\nTrap\nTrap Music\nTrap Mix 2019\nTrap and Bass\nEDM\nMagic Music\nTrap Remix\n#magicmusic",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/CuclyBe3Mcs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/CuclyBe3Mcs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/CuclyBe3Mcs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/CuclyBe3Mcs/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/CuclyBe3Mcs/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "CRYJAXX",
+    "playlistId": "PLWxzeMsw9c7QfB14QHAY8Urv7cIrTomSd",
+    "position": 9,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "CuclyBe3Mcs"
+    }
+   },
+   "contentDetails": {
+    "videoId": "CuclyBe3Mcs",
+    "videoPublishedAt": "2019-10-07T14:00:04.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/1x7v3ucGUpgb2VcSCr6rk3sB2p4\"",
+   "id": "UExXeHplTXN3OWM3UWZCMTRRSEFZOFVydjdjSXJUb21TZC4yM0EyQ0U1M0I2RkIwNTQ0",
+   "snippet": {
+    "publishedAt": "2019-09-19T08:23:01.000Z",
+    "channelId": "UCB_svpQtSv-VqSLBvjijGXQ",
+    "title": "CryJaxx & Reeck - Complex",
+    "description": "🔥 CryJaxx & Reeck - Complex (OUT NOW)\n⤷ https://fanlink.to/complexx\n\n🔔 Subscribe and turn on notifications to stay updated! #TRIBALTRAP\n⤷ http://bit.ly/TribalSub\n\nMore like this? Follow our Spotify Playlists:\n⤷ 🚗 Car Music: https://spoti.fi/2lyZ2zp\n⤷ 🏆 All Our Releases: https://spoti.fi/2lGUwP3\n⤷ 🔊 Bass Boosted: https://spoti.fi/2k0AgHO\n\nCryJaxx:\nx https://soundcloud.com/cryjaxx\nx https://twitter.com/CryJaxx\nx https://www.facebook.com/CryJaxx\nx https://www.instagram.com/CryJaxx/\n\nReeck:\nx https://soundcloud.com/reeckmusic\nx https://www.instagram.com/reeckmusics/\nx https://www.facebook.com/reeckmusics\n\nTribal Trap:\nx https://soundcloud.com/tribaltrapmusic\nx https://www.instagram.com/tribaltrap\nx https://open.spotify.com/user/tribaltrap\n\n📥 Send in your own tunes!\nsubmissions(at)tribaltrap(dot)com\n\nArt by Baran Sarper\n\nCryJaxx & Reeck - Complex\n#Trap #CryJaxx #Reeck #Complex\n⤷  Copyright issues: copyright@tribaltrap.com",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/2yuNe3pQoIw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/2yuNe3pQoIw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/2yuNe3pQoIw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/2yuNe3pQoIw/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/2yuNe3pQoIw/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "CRYJAXX",
+    "playlistId": "PLWxzeMsw9c7QfB14QHAY8Urv7cIrTomSd",
+    "position": 10,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "2yuNe3pQoIw"
+    }
+   },
+   "contentDetails": {
+    "videoId": "2yuNe3pQoIw",
+    "videoPublishedAt": "2019-09-18T15:00:00.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/UoZUALxs4DGrkoSUR4c3nA6G7gE\"",
+   "id": "UExXeHplTXN3OWM3UWZCMTRRSEFZOFVydjdjSXJUb21TZC4wQUE0QzM4MkJGQ0YwQjUx",
+   "snippet": {
+    "publishedAt": "2019-08-25T12:59:07.000Z",
+    "channelId": "UCB_svpQtSv-VqSLBvjijGXQ",
+    "title": "CryJaxx - Zum Zum",
+    "description": "Welcome to my channe l hope you can help:\n🌟🌟Please subscrire Channel :http://www.youtube.com/user/NighTcoreFC\n🌟Please help like Fanpage : https://www.facebook.com/AMAZGM/\n-------------------------------------------------------\n\n♥Song : CryJaxx - Zum Zum\n\n♥Link Download : https://open.spotify.com/album/4M1zAW9On5jbFJyUZTKRwR\n\nFollow CryJaxx \nhttps://soundcloud.com/cryjaxx\n• https://www.CryJaxx.com\n• https://www.instagram.com/CryJaxx\n• https://www.facebook.com/CryJaxx\n• https://www.twitter.com/CryJaxx\n• https://www.youtube.com/c/CryJaxx\n• https://open.spotify.com/artist/4FidvjA9dxE6bhpHGC6ns9\n• https://itun.es/us/5D2Z7\n\n♥Genre:\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n©Artwork render by: \n\n►Link PICTURE → \n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\nLink donate : https://streamlabs.com/nightcorefc\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n★ Follow Amazing Gaming Music\n▶Facebook  :https://www.facebook.com/AMAZGM/\n▶soundcloud:https://soundcloud.com/nightcorefcp\n▶twitter          :https://twitter.com/NFCPROMO\n▶Channel 1 :http://www.youtube.com/user/NighTcoreFC\n▶Channel 2 :http://www.youtube.com/user/DeadMusicFC\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n•IMPORTANT: \nIf any artist or label has copyright issues with my videos (including artists of the images used), please send an e-mail to: ziiyoy7@gmail.com and I will remove it immediately!",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/YX3RS6L0tjc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/YX3RS6L0tjc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/YX3RS6L0tjc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/YX3RS6L0tjc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/YX3RS6L0tjc/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "CRYJAXX",
+    "playlistId": "PLWxzeMsw9c7QfB14QHAY8Urv7cIrTomSd",
+    "position": 11,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "YX3RS6L0tjc"
+    }
+   },
+   "contentDetails": {
+    "videoId": "YX3RS6L0tjc",
+    "videoPublishedAt": "2019-08-24T19:00:04.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/lFY3yUYHJCtzLZzO53skn_g7zdo\"",
+   "id": "UExXeHplTXN3OWM3UWZCMTRRSEFZOFVydjdjSXJUb21TZC5DQjg2RDQyMEVGQkZFOEVF",
+   "snippet": {
+    "publishedAt": "2019-08-25T13:00:01.000Z",
+    "channelId": "UCB_svpQtSv-VqSLBvjijGXQ",
+    "title": "CryJaxx & MYSTIC - Blade (DansDemand Remix)",
+    "description": "Welcome to my channe l hope you can help:\n🌟🌟Please subscrire Channel :http://www.youtube.com/user/NighTcoreFC\n🌟Please help like Fanpage : https://www.facebook.com/AMAZGM/\n-------------------------------------------------------\n\n♥Song : CryJaxx & MYSTIC - Blade (DansDemand Remix)\n\n♥Link Download : https://open.spotify.com/album/3zTeaybF0p96sbCeY7JRo2\n\nFollow @CryJaxx\n• https://www.CryJaxx.com\n• https://www.instagram.com/CryJaxx\n• https://www.facebook.com/CryJaxx\n• https://www.twitter.com/CryJaxx\n• https://www.youtube.com/c/CryJaxx\n• https://open.spotify.com/artist/4FidvjA9dxE6bhpHGC6ns9\n• https://itun.es/us/5D2Z7\n\nFollow @mysticistrash\n• https://www.instagram.com/mystic.beats\n• https://www.twitter.com/prodmystic\n\nFollow @dansdemand\n• https://www.instagram.com/dansdemand\n• https://www.twitter.com/DansDemandHQ\n\n♥Genre:\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n©Artwork render by: \n\n►Link PICTURE → \n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\nLink donate : https://streamlabs.com/nightcorefc\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n★ Follow Amazing Gaming Music\n▶Facebook  :https://www.facebook.com/AMAZGM/\n▶soundcloud:https://soundcloud.com/nightcorefcp\n▶twitter          :https://twitter.com/NFCPROMO\n▶Channel 1 :http://www.youtube.com/user/NighTcoreFC\n▶Channel 2 :http://www.youtube.com/user/DeadMusicFC\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n•IMPORTANT: \nIf any artist or label has copyright issues with my videos (including artists of the images used), please send an e-mail to: ziiyoy7@gmail.com and I will remove it immediately!",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/tQOTK28qOcE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/tQOTK28qOcE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/tQOTK28qOcE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/tQOTK28qOcE/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/tQOTK28qOcE/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "CRYJAXX",
+    "playlistId": "PLWxzeMsw9c7QfB14QHAY8Urv7cIrTomSd",
+    "position": 12,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "tQOTK28qOcE"
+    }
+   },
+   "contentDetails": {
+    "videoId": "tQOTK28qOcE",
+    "videoPublishedAt": "2019-08-13T17:00:10.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/4NJPLC_1DJQIM2rT_hVjdmfquLI\"",
+   "id": "UExXeHplTXN3OWM3UWZCMTRRSEFZOFVydjdjSXJUb21TZC5GMDBDNkJGMzYzREUyMTYw",
+   "snippet": {
+    "publishedAt": "2019-06-17T21:25:36.000Z",
+    "channelId": "UCB_svpQtSv-VqSLBvjijGXQ",
+    "title": "CryJaxx, Reeck & Drama B - Who Would've Thought (VIP Edit)",
+    "description": "🔊 New tribal merch:\n⤷ https://tribaltrapmusic.com\n\n🔊 CryJaxx, Reeck & Drama B - Who Would've Thought (VIP)\n⤷ https://soundcloud.com/tribaltrapmusic/whowouldvethought\n\n🔊  Tribal Spotify playlists:\n⤷ https://spoti.fi/2wytbCY\n\n🔊 Download:\n⤷ https://fanlink.to/wwtvip\n\n🔊 CryJaxx:\nhttps://soundcloud.com/cryjaxx\nhttps://www.facebook.com/CryJaxx\nhttps://www.instagram.com/CryJaxx/\nhttps://twitter.com/CryJaxx\n\n🔊  Reeck:\nhttps://soundcloud.com/reeckmusic\nhttps://www.facebook.com/reeckmusics\nhttps://www.instagram.com/reeckmusics/\n\n🔊 Drama B:\nhttps://soundcloud.com/dramabmusic\nhttps://www.instagram.com/dramabmusic/\nhttps://twitter.com/DramaBMusic\nhttps://www.facebook.com/DramaBMusic/\n\n🔊 Tribal Trap:\nhttps://soundcloud.com/tribaltrapmusic\nhttps://www.instagram.com/tribaltrap\nhttps://open.spotify.com/user/tribaltrap\n\nCryJaxx, Reeck & Drama B - Who Would've Thought (VIP)\n⤷  Copyright issues: copyright@tribaltrap.com",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/gbJheMNnESA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/gbJheMNnESA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/gbJheMNnESA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/gbJheMNnESA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/gbJheMNnESA/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "CRYJAXX",
+    "playlistId": "PLWxzeMsw9c7QfB14QHAY8Urv7cIrTomSd",
+    "position": 13,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "gbJheMNnESA"
+    }
+   },
+   "contentDetails": {
+    "videoId": "gbJheMNnESA",
+    "videoPublishedAt": "2019-06-17T19:44:44.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/9iTct5nWnyriGplv7X1yk3twYa4\"",
+   "id": "UExXeHplTXN3OWM3UWZCMTRRSEFZOFVydjdjSXJUb21TZC5CMUM0NzY5NzdEQzlGRjAx",
+   "snippet": {
+    "publishedAt": "2019-05-15T20:24:40.000Z",
+    "channelId": "UCB_svpQtSv-VqSLBvjijGXQ",
+    "title": "CryJaxx - Ghost (feat. No Mic & Sicluna)",
+    "description": "🔊 Stream & Download Ghost:\n⤷ https://fanlink.to/gh0st\n\n🔊 New tribal merch:\n⤷ https://tribaltrapmusic.com\n\n🔊 CryJaxx - Ghost (feat No Mic & Sicluna)\n⤷ https://soundcloud.com/tribaltrapmusic\n\n🔊  Tribal Spotify playlists:\n⤷ https://spoti.fi/2wytbCY\n\n🔊 CryJaxx:\nhttps://soundcloud.com/cryjaxx\nhttps://www.instagram.com/CryJaxx/\nhttps://www.facebook.com/CryJaxx\nhttps://twitter.com/CryJaxx\n\n🔊 No Mic:\nhttps://soundcloud.com/no_mic\nhttps://www.instagram.com/nomic_music/\nhttps://twitter.com/nomic_music\n\n🔊 Sicluna:\nhttps://soundcloud.com/sicluna\nhttps://twitter.com/DoeOrDie__\n\n🔊 Tribal Trap:\nhttps://soundcloud.com/tribaltrapmusic\nhttps://www.instagram.com/tribaltrap\nhttps://open.spotify.com/user/tribaltrap\n\nCryJaxx - Ghost (feat No Mic & Sicluna)\n⤷  Copyright issues: copyright@tribaltrap.com",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/BDIbKZnYCws/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/BDIbKZnYCws/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/BDIbKZnYCws/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/BDIbKZnYCws/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/BDIbKZnYCws/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "CRYJAXX",
+    "playlistId": "PLWxzeMsw9c7QfB14QHAY8Urv7cIrTomSd",
+    "position": 14,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "BDIbKZnYCws"
+    }
+   },
+   "contentDetails": {
+    "videoId": "BDIbKZnYCws",
+    "videoPublishedAt": "2019-05-15T16:16:08.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/8yd3ZdBewRMNfob807Z-T8vBLZc\"",
+   "id": "UExXeHplTXN3OWM3UWZCMTRRSEFZOFVydjdjSXJUb21TZC5EMzJDRTUwQjBEOUVFQzAw",
+   "snippet": {
+    "publishedAt": "2019-05-05T15:15:25.000Z",
+    "channelId": "UCB_svpQtSv-VqSLBvjijGXQ",
+    "title": "CryJaxx & MYSTIC - Blade",
+    "description": "♫ CryJaxx & MYSTIC - Blade\n✓Follow us on Spotify: http://spoti.fi/2mAZBYT\n\n✖ Follow Trap Club:\nhttps://www.youtube.com/channel/TrapClubMusic\nhttps://www.facebook.com/TrapClubSounds\nhttps://twitter.com/trapclubmusic\nhttps://soundcloud.com/officialtrapclub\nhttp://spoti.fi/2mAZBYT\n\n✖ Follow CryJaxx:\nhttps://soundcloud.com/cryjaxx\nhttps://www.facebook.com/CryJaxx\nhttps://www.instagram.com/CryJaxx/\nhttps://www.youtube.com/c/CryJaxx\n\n✖  Follow MYSTIC:\nhttps://www.instagram.com/mystic.beats/\nhttps://twitter.com/prodmystic\nhttps://open.spotify.com/artist/1DalVU9dLyTN3dz8ifHYSY\n\n#CryJaxx #MYSTIC #Blade \n\nContact: Trap.Club@outlook.com",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/D_QBJZDBn2c/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/D_QBJZDBn2c/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/D_QBJZDBn2c/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/D_QBJZDBn2c/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/D_QBJZDBn2c/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "CRYJAXX",
+    "playlistId": "PLWxzeMsw9c7QfB14QHAY8Urv7cIrTomSd",
+    "position": 15,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "D_QBJZDBn2c"
+    }
+   },
+   "contentDetails": {
+    "videoId": "D_QBJZDBn2c",
+    "videoPublishedAt": "2019-05-05T15:06:38.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/PjK-yh3486NoHnUtaOcZFsiJkNE\"",
+   "id": "UExXeHplTXN3OWM3UWZCMTRRSEFZOFVydjdjSXJUb21TZC40NzE2MTY1QTM3RUI3QkU3",
+   "snippet": {
+    "publishedAt": "2019-04-15T19:27:21.000Z",
+    "channelId": "UCB_svpQtSv-VqSLBvjijGXQ",
+    "title": "CryJaxx - Raabta",
+    "description": "🔊 Stream & Download:\nhttps://fanlink.to/raabta\n\n🔊 New tribal merch:\n⤷ https://tribaltrapmusic.com\n\n🔊 CryJaxx - Raabta\n⤷ https://soundcloud.com/tribaltrapmusic/raabta\n\n🔊  Tribal Spotify playlists:\n⤷ https://spoti.fi/2wytbCY\n\n🔊 CryJaxx:\nhttps://soundcloud.com/cryjaxx\nhttps://www.facebook.com/CryJaxx\nhttps://www.instagram.com/CryJaxx/\n\n🔊 Tribal Trap:\nhttps://soundcloud.com/tribaltrapmusic\nhttps://www.instagram.com/tribaltrap\nhttps://open.spotify.com/user/tribaltrap\n\nCryJaxx - Raabta\n⤷  Copyright issues: copyright@tribaltrap.com",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/g603df0l9Lc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/g603df0l9Lc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/g603df0l9Lc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/g603df0l9Lc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/g603df0l9Lc/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "CRYJAXX",
+    "playlistId": "PLWxzeMsw9c7QfB14QHAY8Urv7cIrTomSd",
+    "position": 16,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "g603df0l9Lc"
+    }
+   },
+   "contentDetails": {
+    "videoId": "g603df0l9Lc",
+    "videoPublishedAt": "2019-04-15T19:08:13.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/pnZJV1ptOTrbSSZ43uWT6c6iRI4\"",
+   "id": "UExXeHplTXN3OWM3UWZCMTRRSEFZOFVydjdjSXJUb21TZC44MkM2RjVEQkQ5N0I2MjVE",
+   "snippet": {
+    "publishedAt": "2019-04-06T17:37:10.000Z",
+    "channelId": "UCB_svpQtSv-VqSLBvjijGXQ",
+    "title": "CryJaxx - Surface (feat. Dubskie)",
+    "description": "🔥Download/stream: https://open.spotify.com/album/0yop3CH0reIsrGE6k2O1n3\n\n🔊 Follow Dubstep  N Trap:\nYouTube - https://www.youtube.com/c/dubstepntrap2?sub_confirmation=1\nhttp://twitter.com/dubstepNtrap\nhttp://fb.com/DubstepNTrap/\nhttp://fb.com/Dubstep.BG\nhttps://instagram.com/dubstepntrap/\n\n🔊 Follow\nhttps://soundcloud.com/cryjaxx\nhttps://fb.com/CryJaxx\nhttps://youtube.com/c/CryJaxx\nhttps://instagram.com/CryJaxx/\nhttps://twitter.com/CryJaxx\nhttps://open.spotify.com/artist/4FidvjA9dxE6bhpHGC6ns9\nhttps://soundcloud.com/cryjaxxtoo\n\n🔊 Follow\nhttps://soundcloud.com/Dubskie\nhttps://fb.com/dubskiemusic\nhttps://twitter.com/Dubskie\nhttps://instagram.com/dubskie/\nhttps://youtube.com/user/dubskietv\nhttps://open.spotify.com/artist/2UOsTuSjbSm8JJqXfLZow3?autoplay=true\n\n🚫 The music and the background in the following video are not free to use, if you'd like to use the music in this video, please contact the artist. \n\n⚠️ These videos may cause people with photosensitive epilepsy to convulse in seizures. Viewer discretion is advised.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/k4fTF2iUr0Q/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/k4fTF2iUr0Q/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/k4fTF2iUr0Q/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/k4fTF2iUr0Q/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/k4fTF2iUr0Q/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "CRYJAXX",
+    "playlistId": "PLWxzeMsw9c7QfB14QHAY8Urv7cIrTomSd",
+    "position": 17,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "k4fTF2iUr0Q"
+    }
+   },
+   "contentDetails": {
+    "videoId": "k4fTF2iUr0Q",
+    "videoPublishedAt": "2019-04-06T17:22:26.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/QyRN5qIQ0xdOG7z_dPbYw7B0tvQ\"",
+   "id": "UExXeHplTXN3OWM3UWZCMTRRSEFZOFVydjdjSXJUb21TZC4zQTkzRjgxRTY0OEU0MkM3",
+   "snippet": {
+    "publishedAt": "2019-03-15T21:37:05.000Z",
+    "channelId": "UCB_svpQtSv-VqSLBvjijGXQ",
+    "title": "Reeck, CryJaxx & Jon Becker - Casino Love",
+    "description": "🔊 New tribal merch:\n⤷ https://tribaltrapmusic.com\n\n🔊 Reeck, CryJaxx & Jon Becker - Casino Love\n⤷ https://soundcloud.com/tribaltrapmusic/casinolove\n\n🔊  Tribal Spotify playlists:\n⤷ https://spoti.fi/2wytbCY\n\n🔊 Stream & Download:\nFree Download: https://fanlink.to/casino\nSpotify: https://spoti.fi/2Fg1l1I\nApple Music: https://apple.co/2Fg1pP0\nGoogle Play: https://goo.gl/mqJVsm\n\n🔊 CryJaxx:\nhttps://soundcloud.com/cryjaxx\nhttps://www.facebook.com/CryJaxx\nhttps://www.instagram.com/CryJaxx/\nhttps://twitter.com/CryJaxx\n\n🔊 Reeck:\nhttps://soundcloud.com/reeckmusic\nhttps://www.facebook.com/reeckmusics\nhttps://www.instagram.com/reeckmusics/\n\n🔊 Jon Becker:\nhttps://www.facebook.com/jonbeckerofficial\nhttps://www.instagram.com/jonbecker4/\nhttps://soundcloud.com/jonbeckervocalist\n\n🔊 Tribal Trap:\nhttps://soundcloud.com/tribaltrapmusic\nhttps://www.instagram.com/tribaltrap\nhttps://open.spotify.com/user/tribaltrap\n\nReeck, CryJaxx & Jon Becker - Casino Love\n⤷  Copyright issues: copyright@tribaltrap.com",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Yk8WJd5JJlU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Yk8WJd5JJlU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Yk8WJd5JJlU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Yk8WJd5JJlU/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Yk8WJd5JJlU/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "CRYJAXX",
+    "playlistId": "PLWxzeMsw9c7QfB14QHAY8Urv7cIrTomSd",
+    "position": 18,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Yk8WJd5JJlU"
+    }
+   },
+   "contentDetails": {
+    "videoId": "Yk8WJd5JJlU",
+    "videoPublishedAt": "2019-03-15T16:51:14.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/vpBy1v8477QdQK-mpscaM1hAuwo\"",
+   "id": "UExXeHplTXN3OWM3UWZCMTRRSEFZOFVydjdjSXJUb21TZC44QTY2MEEzNzBFQUJCMUQ2",
+   "snippet": {
+    "publishedAt": "2019-02-28T21:57:05.000Z",
+    "channelId": "UCB_svpQtSv-VqSLBvjijGXQ",
+    "title": "CryJaxx & TH3 DARP - Token Baashi",
+    "description": "🔥 CryJaxx & TH3 DARP - Token Baashi 🔥\n↪︎ https://soundcloud.com/allbassnation/cryjaxx-th3-darp-token-baashi\nBass Nation's Spotify playlist: http://spoti.fi/2kzinP8\n\n🔊 Bass Nation 🔊\n●http://nations.io\n●http://twitter.com/all808nation\n●http://instagram.com/bassnation\n●http://facebook.com/allbassnation\n●http://soundcloud.com/allbassnation\n●https://snapchat.com/add/allbassnation\n\n🎵 CryJaxx 🎵\nhttps://soundcloud.com/cryjaxx\nhttps://www.facebook.com/CryJaxx\nhttps://www.instagram.com/CryJaxx/\nhttps://www.youtube.com/c/CryJaxx\n\n\n🎵TH3 DARP  🎵\nhttps://twitter.com/TH3DARP\nhttps://facebook.com/djth3darp\nhttps://soundcloud.com/th3darp\nhttps://instagram.com/th3darp/\n\n⚠️ These videos may cause people with photosensitive epilepsy to convulse in seizures. Viewer discretion is advised. ⚠️\n\nMoving Backgrounds: https://www.instagram.com/officialgoestee/\n\n#cryjaxx\n#th3darp\n#tokenbaashi\n#bassnation",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/0LjFUBMHeys/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/0LjFUBMHeys/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/0LjFUBMHeys/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/0LjFUBMHeys/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/0LjFUBMHeys/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "CRYJAXX",
+    "playlistId": "PLWxzeMsw9c7QfB14QHAY8Urv7cIrTomSd",
+    "position": 19,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "0LjFUBMHeys"
+    }
+   },
+   "contentDetails": {
+    "videoId": "0LjFUBMHeys",
+    "videoPublishedAt": "2019-02-28T21:39:02.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/UDytJrhpC9KnoJp-68h2zajU_OQ\"",
+   "id": "UExXeHplTXN3OWM3UWZCMTRRSEFZOFVydjdjSXJUb21TZC4xNjIyNEE0MDEyRDlCMjBE",
+   "snippet": {
+    "publishedAt": "2019-02-21T22:18:14.000Z",
+    "channelId": "UCB_svpQtSv-VqSLBvjijGXQ",
+    "title": "CryJaxx & TH3 DARP - Maad Loud",
+    "description": "🔊 New tribal merch:\n⤷ https://tribaltrapmusic.com\n\n🔊 CryJaxx & TH3 DARP - Maad Loud\n⤷ https://soundcloud.com/tribaltrapmusic/sets/endemic-ii\n\n🔊  Tribal Spotify playlists:\n⤷ https://spoti.fi/2wytbCY\n\n🔊 Download:\n⤷ https://fanlink.to/maadloud\n\n🔊 CryJaxx:\nhttps://soundcloud.com/cryjaxx\nhttps://www.facebook.com/CryJaxx\nhttps://www.instagram.com/CryJaxx/\n\n🔊 TH3 DARP:\nhttps://soundcloud.com/th3darp\nhttps://www.facebook.com/djth3darp\nhttps://twitter.com/TH3DARP\nhttps://www.instagram.com/th3darp/\n\n🔊 Tribal Trap:\nhttps://soundcloud.com/tribaltrapmusic\nhttps://www.instagram.com/tribaltrap\nhttps://open.spotify.com/user/tribaltrap\n\nArt by Vacades\n\nCryJaxx & TH3 DARP - Maad Loud\n⤷  Copyright issues: copyright@tribaltrap.com",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/IwD7GA1b0sM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/IwD7GA1b0sM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/IwD7GA1b0sM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/IwD7GA1b0sM/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/IwD7GA1b0sM/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "CRYJAXX",
+    "playlistId": "PLWxzeMsw9c7QfB14QHAY8Urv7cIrTomSd",
+    "position": 20,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "IwD7GA1b0sM"
+    }
+   },
+   "contentDetails": {
+    "videoId": "IwD7GA1b0sM",
+    "videoPublishedAt": "2019-02-21T16:39:34.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/W8a5kLxd8atmkEd5WdRkmYosMu0\"",
+   "id": "UExXeHplTXN3OWM3UWZCMTRRSEFZOFVydjdjSXJUb21TZC5CMEVBRUJERkUyNTBENTkz",
+   "snippet": {
+    "publishedAt": "2019-02-04T13:46:37.000Z",
+    "channelId": "UCB_svpQtSv-VqSLBvjijGXQ",
+    "title": "CryJaxx & Shkspr - Trash Talk (Magic Free Release)",
+    "description": "CryJaxx & Shkspr - Trash Talk (Magic Free Release)\n✔️ Stream/Download: https://fanlink.to/bqhd\n💪 Listen Now: https://lnk.to/MagicFitness (Workout Trap Playlist)\n🚀 Full Catalog Access & Usage Policy: https://m.me/magicmusicsquad\n⚡  Magic Instagram: http://bit.ly/2Iny5FN\n👉  Submit Your DEMO: https://bit.ly/2rrL9m0\n\n\n⚠️⚠️⚠️ HOW TO USE & CREDIT OUR MUSIC⚠️⚠️⚠️\nAll \"Magic Releases\" are FREE TO USE & FREE TO MONETIZE!!\nPlease COPY & PASTE this in your video description!!\n\nTrack: CryJaxx & Shkspr - Trash Talk\nMusic Provided By: Magic Records\nListen To The Original: https://youtu.be/Q1aVxxIdS5s\nFanlink: https://fanlink.to/bqhd\n\n---------------------------------------------------------------------\n📧 Contact us: hi@magicmusic.io \n---------------------------------------------------------------------\n\n✔️CryJaxx \nSoundCloud | https://soundcloud.com/cryjaxx\nFacebook | https://www.facebook.com/CryJaxx\nInstagram |https://www.instagram.com/CryJaxx/\nYouTube I https://www.youtube.com/c/CryJaxx\n\n✔️ Shkspr\nhttps://www.soundcloud.com/xavi3r3\nhttps://www.instagram.com/xaviereletteer https://www.twitter.com/xavi3r3music\n\n✔️ Wallpaper:\n\n---------------------------------------------------------------------\n\n\n....\nTrap\nTrap Music\nTrap Mix 2019\nTrap and Bass\nEDM\nMagic Music\nTrap Remix\n#trap #bass #magicmusic",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Q1aVxxIdS5s/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Q1aVxxIdS5s/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Q1aVxxIdS5s/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Q1aVxxIdS5s/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Q1aVxxIdS5s/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "CRYJAXX",
+    "playlistId": "PLWxzeMsw9c7QfB14QHAY8Urv7cIrTomSd",
+    "position": 21,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Q1aVxxIdS5s"
+    }
+   },
+   "contentDetails": {
+    "videoId": "Q1aVxxIdS5s",
+    "videoPublishedAt": "2019-02-04T12:00:01.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/TOMCp0fERe2YkRoZ6raIQmZ7hxM\"",
+   "id": "UExXeHplTXN3OWM3UWZCMTRRSEFZOFVydjdjSXJUb21TZC43QzNCNkZENzIyMDY2MjZB",
+   "snippet": {
+    "publishedAt": "2019-01-23T19:41:51.000Z",
+    "channelId": "UCB_svpQtSv-VqSLBvjijGXQ",
+    "title": "CryJaxx - Snap (feat. M.I.M.E)",
+    "description": "🔊 New tribal merch:\n⤷ https://tribaltrapmusic.com\n\n🔊 CryJaxx - Snap (feat. M.I.M.E)\n⤷ https://soundcloud.com/tribaltrapmusic/snap\n\n🔊  Tribal Spotify playlists:\n⤷ https://spoti.fi/2wytbCY\n\n🔊 Stream & Download:\nFree Download: https://fanlink.to/SNAP\nApple Music: https://apple.co/2AXR8nQ\nSpotify: https://spoti.fi/2HqiubN\n\n🔊 CryJaxx:\nhttps://soundcloud.com/cryjaxx\nhttps://www.instagram.com/CryJaxx\nhttps://www.facebook.com/CryJaxx\n\n🔊 M.I.M.E:\nhttps://soundcloud.com/onlymime\nhttps://twitter.com/TheOnlyMime\nhttps://www.instagram.com/TheOnlyMime/\nhttps://www.facebook.com/TheOnlyMime/\n\n🔊 Tribal Trap:\nhttps://soundcloud.com/tribaltrapmusic\nhttps://www.instagram.com/tribaltrap\nhttps://open.spotify.com/user/tribaltrap\n\nArt by Vacades\n\nCryJaxx - Snap (feat. M.I.M.E)\n⤷  Copyright issues: copyright@tribaltrap.com",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/qO0adALOm6A/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/qO0adALOm6A/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/qO0adALOm6A/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/qO0adALOm6A/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/qO0adALOm6A/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "CRYJAXX",
+    "playlistId": "PLWxzeMsw9c7QfB14QHAY8Urv7cIrTomSd",
+    "position": 22,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "qO0adALOm6A"
+    }
+   },
+   "contentDetails": {
+    "videoId": "qO0adALOm6A",
+    "videoPublishedAt": "2019-01-23T18:49:13.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/kPQMwI3ST-Mets4emr_lzzp_ti0\"",
+   "id": "UExXeHplTXN3OWM3UWZCMTRRSEFZOFVydjdjSXJUb21TZC42RTNCOEMxREI3Q0VDMjU2",
+   "snippet": {
+    "publishedAt": "2018-11-08T19:07:06.000Z",
+    "channelId": "UCB_svpQtSv-VqSLBvjijGXQ",
+    "title": "K-391 & Alan Walker - Ignite (feat. Julie Bergan & Seungri) (Marin Hoxha & CryJaxx Remix)",
+    "description": "🔥Download: https://soundcloud.com/cryjaxxtoo/ignite-remix\n\n🔊 Follow Dubstep  N Trap:\nYouTube - https://www.youtube.com/c/dubstepntrap2?sub_confirmation=1\nhttp://twitter.com/dubstepNtrap\nhttp://fb.com/DubstepNTrap/\nhttp://fb.com/Dubstep.BG\nhttps://instagram.com/dubstepntrap/\n\n🔊 Follow CryJaxx:\nhttps://soundcloud.com/cryjaxxtoo\nhttps://soundcloud.com/cryjaxx\nhttps://fb.com/CryJaxx\nhttps://instagram.com/CryJaxx/\nhttps://open.spotify.com/artist/4FidvjA9dxE6bhpHGC6ns9\nhttps://twitter.com/CryJaxx\nhttps://youtube.com/CryJaxx\n\n🔊 Follow Marin Hoxha:\nhttps://soundcloud.com/Marin-Hoxha\nhttps://twitter.com/MarinHoxha\nhttps://fb.com/Marinhoxhamusic/?_rdc=1&_rdr\nhttps://youtube.com/channel/UCnAbketHOrqM3cpsTv-vFAw\nhttps://instagram.com/marin.hoxha/\nhttps://open.spotify.com/artist/69kFCyHDE14cRD1cctCCcd\n\n\n🚫 The music and the background in the following video are not free to use, if you'd like to use the music in this video, please contact the artist. \n\n⚠️ These videos may cause people with photosensitive epilepsy to convulse in seizures. Viewer discretion is advised.\n\n#K391 #AlanWalker #music",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Cs5IftvwGQ0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Cs5IftvwGQ0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Cs5IftvwGQ0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Cs5IftvwGQ0/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Cs5IftvwGQ0/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "CRYJAXX",
+    "playlistId": "PLWxzeMsw9c7QfB14QHAY8Urv7cIrTomSd",
+    "position": 23,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Cs5IftvwGQ0"
+    }
+   },
+   "contentDetails": {
+    "videoId": "Cs5IftvwGQ0",
+    "videoPublishedAt": "2018-11-08T18:30:40.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/_qDv1Auj3tK_8ADsRvp98vs909U\"",
+   "id": "UExXeHplTXN3OWM3UWZCMTRRSEFZOFVydjdjSXJUb21TZC40MDNEMzA0QTBFRThFMzBE",
+   "snippet": {
+    "publishedAt": "2018-10-16T17:10:57.000Z",
+    "channelId": "UCB_svpQtSv-VqSLBvjijGXQ",
+    "title": "CryJaxx & Reeck - Who Would've Thought (ft. Drama B)",
+    "description": "Follow our Spotify playlist: http://trapcity.tv/Spotify\nSubscribe here: http://trapcity.tv/subscribe\nDownload here: https://fanlink.to/wwt\n\n➥ Become a fan of Trap City:\nhttp://trapcity.tv/Spotify\nhttp://trapcity.tv/soundcloud\nhttp://trapcity.tv/facebook\nhttp://trapcity.tv/twitter\nhttp://trapcity.tv/instagram\nhttp://www.trapcity.net\n\n➥ Follow CryJaxx:\nhttp://www.soundcloud.com/cryjaxx\nhttp://www.facebook.com/CryJaxx\nhttp://www.twitter.com/CryJaxx\nhttp://www.instagram.com/CryJaxx\n\n➥ Follow Drama B:\nhttp://www.soundcloud.com/dramabmusic\nhttp://www.facebook.com/dramabmusic\nhttp://www.twitter.com/dramabmusic\nhttp://www.instagram.com/dramabmusic\n\n#trap #trapmusic #trapcity\n\n➥ Lyrics - Enable in video by turning on CC / Subtitles:\n\nYeah (aha)\nWho would'\u0092ve thought?\nWho would'\u0092ve thought, ayy? (woah)\nWho would'\u0092ve thought? (aha)\n\nWho would'\u0092ve thought, I would be here \n***** just me, ***** I took dares\nRisked everything I ever learned in my life\nJust to get on the stage and then rip it to pieces\nI got what they want (ayy) \nIf this is a game Where the fun (ayy)\nDrama B coming for one (ayy)\nLine leader back in the front (ayy)\nNo kiddin' I came from the block \nSummertime all you hear is pop-pop-pop\nPolice pull up you see cop-cop-cops\nEverybody wishing that the violence would stop (ayy)\n\nWho would'\u0092ve thought?\nWho would'\u0092ve thought?\nI'd be standing right in front of you\nIt\u0092's hard to keep friends when you making moves\nThey get jealous, wanna kill your groove (yeah)\n\nWho would\u0092've thought?\nWho would\u0092've thought?\nTurn from a kid into a boss\nLearn every time that I\u0092m taking a loss\nWho would\u0092've thought?\nWho would\u0092've thought?\nAll the support that been holding me up\nAll the haters try holdin' me down\n***** I\u0092m Rocky, you ain't holding these rounds\n\nOh gang, looking right up \nHard work don\u0092t believe in luck \nWho would\u0092've thought?\nWho would\u0092've thought?\nLook at the floss, look at the walk\nPushing forward ***** no lookin' back\nI move the world long as y'all got my back \nBurning ya bridges I\u0092m piecing the gaps  \nWho would\u0092've thought?\nWho would'\u0092ve thought? (Ayy)\n\nAyy, killing the game watch it carry the grief \nSay what I want, I got freedom of speech \nLook at me now, would you look at me now\nCouple of years back I was drowning in doubt \nNow I\u0092m surrounded by ******* and threats  \nYou want my spot, I let you be a guest\nYou be surrounded by champion vets\nWe don\u0092t know what to do with the check\n\nPeople keep calling, if not they gonna text \nWanting your cash like the first of the month\nMusic picked up but I\u0092m still up in debt \n****** be acting up like they on set\n\nGotta get the bands for my young ones \nGotta get the bands for my day ones\nGotta get the bands for my for my mamma crib \nGotta get the bands for my little sis \n\nClosed mouths don\u0092t get fed \nDon\u0092t sleep, do that when I\u0092m dead \nWon\u0092t be satisfied till\u0092 I\u0092m in a mansion \nTill my mamma camping not inside a mess\nWoah, now that we bless \nThey pulling up, they think they next\n***** I ain't Khaled but yup we the best \nLet em keep talking, we don\u0092t even stress (nah)\n\nWho would'\u0092ve thought?\nWho would'\u0092ve thought?\nTurn from a kid into a boss\nLearn every time that I\u0092m taking a loss\nWho would\u0092've thought?\nWho would\u0092've thought?\nAll the support that been holding me up\nAll the haters try holdin' me down\n***** I\u0092m Rocky, you ain't holding these rounds\n\nOh gang, looking right up \nHard work don\u0092t believe in luck \nWho would'\u0092ve thought?\nWho would'\u0092ve thought?\nLook at the floss, look at the walk\nPushing forward ***** no lookin' back\nI move the world long as y'all got my back \nBurning ya bridges I\u0092m piecing the gaps  \nWho would'\u0092ve thought?\nWho would'\u0092ve thought? (Ayy)\n\nYeah \nWho would\u0092've thought?\nWho would\u0092've thought, ayy? \nWho would'\u0092ve thought? (yeah)\n\nWho would\u0092've thought, I would be here \n***** just me, ***** I took dares\nRisked everything I ever learned in my life\nJust to get on the stage and the rip it to pieces\nI got what they want (ayy) \nIf this is a game Where the fun (ayy)\nDrama B coming for one (ayy)\nLine leader back in the front (ayy)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/IJJfy3P5I6E/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/IJJfy3P5I6E/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/IJJfy3P5I6E/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/IJJfy3P5I6E/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/IJJfy3P5I6E/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "CRYJAXX",
+    "playlistId": "PLWxzeMsw9c7QfB14QHAY8Urv7cIrTomSd",
+    "position": 24,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "IJJfy3P5I6E"
+    }
+   },
+   "contentDetails": {
+    "videoId": "IJJfy3P5I6E",
+    "videoPublishedAt": "2018-10-16T16:00:04.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/RtOD81lCsh3Ms1WvYGtpTtJGDOE\"",
+   "id": "UExXeHplTXN3OWM3UWZCMTRRSEFZOFVydjdjSXJUb21TZC42MjYzMTMyQjA0QURCN0JF",
+   "snippet": {
+    "publishedAt": "2018-10-01T22:06:30.000Z",
+    "channelId": "UCB_svpQtSv-VqSLBvjijGXQ",
+    "title": "CryJaxx - London Bargain",
+    "description": "🔥Download/stream: smarturl.it/londonbargain\n\n🔊 Follow Dubstep  N Trap:\nYouTube - https://www.youtube.com/c/dubstepntrap2?sub_confirmation=1\nhttp://twitter.com/dubstepNtrap\nhttp://fb.com/DubstepNTrap/\nhttp://fb.com/Dubstep.BG\nhttps://instagram.com/dubstepntrap/\n\n🔊 Follow CryJaxx:\nhttps://soundcloud.com/cryjaxx\nhttps://fb.com/CryJaxx\nhttps://youtube.com/c/CryJaxx\nhttps://instagram.com/CryJaxx/\nhttps://twitter.com/CryJaxx\nhttps://open.spotify.com/artist/4FidvjA9dxE6bhpHGC6ns9\n\n\n🚫 The music and the background in the following video are not free to use, if you'd like to use the music in this video, please contact the artist. \n\n⚠️ These videos may cause people with photosensitive epilepsy to convulse in seizures. Viewer discretion is advised.\n\n#CryJaxx #bass #trap",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/iYmcEv_33AI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/iYmcEv_33AI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/iYmcEv_33AI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/iYmcEv_33AI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/iYmcEv_33AI/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "CRYJAXX",
+    "playlistId": "PLWxzeMsw9c7QfB14QHAY8Urv7cIrTomSd",
+    "position": 25,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "iYmcEv_33AI"
+    }
+   },
+   "contentDetails": {
+    "videoId": "iYmcEv_33AI",
+    "videoPublishedAt": "2018-09-29T22:07:57.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/ZFVIEKO6NI00JgSizPu5ABhqeAk\"",
+   "id": "UExXeHplTXN3OWM3UWZCMTRRSEFZOFVydjdjSXJUb21TZC4xM0YyM0RDNDE4REQ1NDA0",
+   "snippet": {
+    "publishedAt": "2018-09-08T19:16:43.000Z",
+    "channelId": "UCB_svpQtSv-VqSLBvjijGXQ",
+    "title": "CryJaxx - We Got Hustle",
+    "description": "Follow our Spotify playlist: http://trapcity.tv/Spotify\nSubscribe here: http://trapcity.tv/subscribe\nDownload here: https://smarturl.it/wegothustle\n\n➥ Become a fan of Trap City:\nhttp://trapcity.tv/Spotify\nhttp://trapcity.tv/soundcloud\nhttp://trapcity.tv/facebook\nhttp://trapcity.tv/twitter\nhttp://trapcity.tv/instagram\nhttp://www.trapcity.net\n\n➥ Follow CryJaxx:\nhttp://www.soundcloud.com/cryjaxx\nhttp://www.facebook.com/CryJaxx\nhttp://www.twitter.com/CryJaxx\nhttp://www.instagram.com/CryJaxx\n\n#trap #trapmusic #trapcity\n\n➥ Lyrics - Enable in video by turning on CC / Subtitles:\n\nVerse 1  \nI got hustle, I got flow\nI got flow, I got hustle\nSome got tellin'\nSome got grind\n\nI got both, y'all in trouble \nWatch me blow , they gon' feel me \nThink I wont, you so silly\nSay you cough, well not really\nClaim you go, you know Billy\n\nI got flow, I got hustle\nI got hustle, I got flow\nI got struggles on work\nI know that they come and go\n\nLike I'm playing litte boy\nI went as low as you can go\nNow I bring the bass home \nLike I'm coming from the stove\n\nBridge \nIf I fall often, I fall for\nDevil tint me, Im fall for\nOn real focus, making real moves\nWith some real people, thanking God for\nThat's real talk, make real music\nGot real fans and they are all for me\nThey quoting me like I felt that\nWhich line? All 'em!\n\nVerse 2  \nI got hustle, I got flow\nI got flow, I got hustle\nSome got tellin'\nSome got grind\n\nI got both, y'all in trouble \nWatch me blow , they gon' feel me \nThink I wont, you so silly\nSay you cough, well not really\nClaim you go, you know Billy\n\nI got flow, I got hustle\nI got hustle, I got flow\nI got struggles on work\nI know that they come and go\n\nLike I'm playing little boy\nI went as low as you can go\nNow I bring the bass home \nLike I'm coming from the stove\n\nBridge \nIf I fall often, I fall for\nDevil tint me, Im fall for\nOn real focus, making real moves\nWith some real people, thanking God for\nThat's real talk, make real music\nGot real fans and they are all for me\nThey quoting me like I felt that\nWhich line? All 'em!\n\nOutro \nImma make these suckers \nRealise I ain't playin' tho\nPut me in the desert \nFlow so cold I bet I make it snow \n\nI don't care so far, I'm still young \nI got a way to go\nUp, up in the way I go\nIs the ego man I know ,let go (yeah)!",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/JALv8n5HBho/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/JALv8n5HBho/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/JALv8n5HBho/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/JALv8n5HBho/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/JALv8n5HBho/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "CRYJAXX",
+    "playlistId": "PLWxzeMsw9c7QfB14QHAY8Urv7cIrTomSd",
+    "position": 26,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "JALv8n5HBho"
+    }
+   },
+   "contentDetails": {
+    "videoId": "JALv8n5HBho",
+    "videoPublishedAt": "2018-09-08T16:00:07.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/VJOk_S7PkJEueGKL_djqdpLx1Ek\"",
+   "id": "UExXeHplTXN3OWM3UWZCMTRRSEFZOFVydjdjSXJUb21TZC4xN0Y2QjVBOEI2MzQ5OUM5",
+   "snippet": {
+    "publishedAt": "2019-01-23T19:50:01.000Z",
+    "channelId": "UCB_svpQtSv-VqSLBvjijGXQ",
+    "title": "Cardi B - Bodak Yellow (CryJaxx & Z & Z Remix) [Bass Boosted]",
+    "description": "Cardi B - Bodak Yellow (CryJaxx & Z & Z Remix)\nCardi B - Bodak Yellow (CryJaxx & Z & Z Remix) Bass Boosted\nRead Below - (Credits, copyright):\n\nCardi B - Bodak Yellow Trap Remix by CryJaxx & Z & Z:\nhttps://soundcloud.com/CryJaxx\nhttps://www.facebook.com/CryJaxx\nhttps://www.youtube.com/c/CryJaxx\nhttps://www.instagram.com/CryJaxx/\nhttps://twitter.com/CryJaxx\nhttps://open.spotify.com/artist/4FidvjA9dxE6bhpHGC6ns9\n\nZ & Z:\nhttps://soundcloud.com/ZandZofficial\nhttps://www.facebook.com/zandzmusic\nhttps://www.instagram.com/zandzmusic/\nhttps://twitter.com/zandz_music\n\nCardi B:\nhttps://www.instagram.com/iamcardib/\nhttps://twitter.com/iamcardib\nhttps://www.facebook.com/IamCardiB\nhttps://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB?autoplay=true&v=A\n\nI hope you enjoy this Cardi B - Bodak Yellow Trap Remix! For more remixes, be sure to leave a like, comment and subscribe! \n\nCOPYRIGHT DISCLAIMER: If there are any issues with this upload, then please email me at monstervideos91@gmail.com to resolve this issue.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/nTniB2NJMSQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/nTniB2NJMSQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/nTniB2NJMSQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/nTniB2NJMSQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/nTniB2NJMSQ/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "CRYJAXX",
+    "playlistId": "PLWxzeMsw9c7QfB14QHAY8Urv7cIrTomSd",
+    "position": 27,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "nTniB2NJMSQ"
+    }
+   },
+   "contentDetails": {
+    "videoId": "nTniB2NJMSQ",
+    "videoPublishedAt": "2018-08-16T17:30:00.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/ayJ8JlYBfSsA5cqcYfhK5dqFFhs\"",
+   "id": "UExXeHplTXN3OWM3UWZCMTRRSEFZOFVydjdjSXJUb21TZC5CNTZFOTNGQzZEODg1RUQx",
+   "snippet": {
+    "publishedAt": "2018-07-09T11:12:45.000Z",
+    "channelId": "UCB_svpQtSv-VqSLBvjijGXQ",
+    "title": "CryJaxx - Destruction (Magic Free Release)",
+    "description": "✔️ Stream/Download: https://fanlink.to/1iz\n💪 Listen Now: https://lnk.to/MagicFitness (Workout Trap Playlist)\n🚀 Full Catalog Access & Usage Policy: https://m.me/magicmusicsquad\n⚡  Magic Instagram: http://bit.ly/2Iny5FN\n👉  Submit Your DEMO: https://bit.ly/2rrL9m0\n\n⚠️⚠️⚠️ HOW TO USE & CREDIT OUR MUSIC⚠️⚠️⚠️\nAll \"Magic Releases\" are FREE TO USE & FREE TO MONETIZE!!\nPlease COPY & PASTE this in your video description!!\n\nTrack: CryJaxx - Destruction [Magic Release]\nMusic Provided By: Magic Records\nListen To The Original: https://bit.ly/2TqeMjL\nFanlink: https://fanlink.to/1iz\n\n---------------------------------------------------------------------\n📧 Contact us: hi@magicmusic.io\n---------------------------------------------------------------------\n\n✔️ CryJaxx\nSoundCloud https://soundcloud.com/cryjaxx\nFacebook: https://www.facebook.com/CryJaxx\nInstagram: https://www.instagram.com/CryJaxx/\nYouTube: https://www.youtube.com/c/CryJaxx\n\n---------------------------------------------------------------------\n\n\n....\nTrap\nTrap Music\nTrap Mix 2018\nTrap and Bass\nBass Boost\nTrap n Bass\nBass Boosted\nEDM\nMagic Music\nTrap Remix #trap #trapmusic",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/C-brwXbe20w/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/C-brwXbe20w/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/C-brwXbe20w/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/C-brwXbe20w/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/C-brwXbe20w/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "CRYJAXX",
+    "playlistId": "PLWxzeMsw9c7QfB14QHAY8Urv7cIrTomSd",
+    "position": 28,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "C-brwXbe20w"
+    }
+   },
+   "contentDetails": {
+    "videoId": "C-brwXbe20w",
+    "videoPublishedAt": "2018-07-09T11:00:01.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/hwwpMOtdnCbw-XtdmI57m7Ons9k\"",
+   "id": "UExXeHplTXN3OWM3UWZCMTRRSEFZOFVydjdjSXJUb21TZC4wRjhFM0MxMTU1MEUzQ0VB",
+   "snippet": {
+    "publishedAt": "2018-06-26T15:30:23.000Z",
+    "channelId": "UCB_svpQtSv-VqSLBvjijGXQ",
+    "title": "CryJaxx - Ponder [Magic Free Release]",
+    "description": "✔️ Stream/Download: https://fanlink.to/ponder\n💪 Listen Now: https://lnk.to/MagicFitness (Workout Trap Playlist)\n🚀 Full Catalog Access & Usage Policy: https://m.me/magicmusicsquad\n⚡  Magic Instagram: http://bit.ly/2Iny5FN\n👉  Submit Your DEMO: https://bit.ly/2rrL9m0\n\n⚠️⚠️⚠️ HOW TO USE & CREDIT OUR MUSIC⚠️⚠️⚠️\nAll \"Magic Releases\" are FREE TO USE & FREE TO MONETIZE!!\nPlease COPY & PASTE this in your video description!!\n\nTrack: CryJaxx - Ponder [Magic Free Release]\nMusic Provided By: Magic Records\nListen To The Original: https://bit.ly/2MgTzJQ\nFanlink: https://fanlink.to/ponder\n\n---------------------------------------------------------------------\n📧 Contact us: hi@magicmusic.io\n---------------------------------------------------------------------\n\n✔️ CryJaxx \nhttps://soundcloud.com/cryjaxx\nhttps://www.facebook.com/CryJaxx\nhttps://www.youtube.com/c/CryJaxx\nhttps://www.instagram.com/CryJaxx/\n\n---------------------------------------------------------------------\n\n\n....\nTrap\nTrap Music\nTrap Mix 2018\nTrap and Bass\nBass Boost\nTrap n Bass\nBass Boosted\nEDM\nMagic Music\nTrap Remix #trap #trapmusic",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/mxK2IWvVLJY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/mxK2IWvVLJY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/mxK2IWvVLJY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/mxK2IWvVLJY/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/mxK2IWvVLJY/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "CRYJAXX",
+    "playlistId": "PLWxzeMsw9c7QfB14QHAY8Urv7cIrTomSd",
+    "position": 29,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "mxK2IWvVLJY"
+    }
+   },
+   "contentDetails": {
+    "videoId": "mxK2IWvVLJY",
+    "videoPublishedAt": "2018-06-26T15:18:52.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/_wOG6v7yv2RM5w04qPZoDtVbaaw\"",
+   "id": "UExXeHplTXN3OWM3UWZCMTRRSEFZOFVydjdjSXJUb21TZC42QzdBMzlBQzQzRjQ0QkQy",
+   "snippet": {
+    "publishedAt": "2018-06-11T22:39:29.000Z",
+    "channelId": "UCB_svpQtSv-VqSLBvjijGXQ",
+    "title": "CJMR - Marvelous (Prime)",
+    "description": "Welcome to my channe l hope you can help:\n🌟🌟Please subscrire Channel :http://www.youtube.com/user/NighTcoreFC\n\n🌟Please help like Fanpage : https://www.facebook.com/AMAZGM/\n------------------------------------------------------- Amazing Gaming Music is the vibe music. we promo and trending new track.\n\n♥Song : CJMR - Marvelous (Prime)\n\n♥Genre: Chill\n\n♥Link Download : https://pumpyoursound.com/fangate/detail/50542-cjmr-marvelous-prime\n\nFollow CJMR \nhttps://soundcloud.com/CJMRmusic\nhttps://twitter.com/CJMRMusic\n\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n©Artwork render by: \n\n►Link PICTURE → https://wall.alphacoders.com/big.php?i=565793\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\nLink donate : https://streamlabs.com/nightcorefc\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n★ Follow Amazing Gaming Music\n▶Facebook  :https://www.facebook.com/NCMusicPromo/\n▶soundcloud:https://www.facebook.com/AMAZGM/\n▶twitter          :https://twitter.com/NFCPROMO\n▶Channel 1 :http://www.youtube.com/user/NighTcoreFC\n▶Channel 2 :http://www.youtube.com/user/DeadMusicFC\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n----------------------------------------------------------------------------------------\n•IMPORTANT: \nIf any artist or label has copyright issues with my videos (including artists of the images used), please send an e-mail to: ziiyoy7@gmail.com and I will remove it immediately! Welcome to my channe l hope you can help:\n🌟🌟Please subscrire Channel : http://www.youtube.com/user/NighTcoreFC\n🌟Please help like Fanpage : https://www.facebook.com/AMAZGM/\n-------------------------------------------------------",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/bI1fUJuRz08/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/bI1fUJuRz08/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/bI1fUJuRz08/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/bI1fUJuRz08/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/bI1fUJuRz08/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "CRYJAXX",
+    "playlistId": "PLWxzeMsw9c7QfB14QHAY8Urv7cIrTomSd",
+    "position": 30,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "bI1fUJuRz08"
+    }
+   },
+   "contentDetails": {
+    "videoId": "bI1fUJuRz08",
+    "videoPublishedAt": "2018-06-10T23:00:01.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/zIJn4QPhSm_hIJif8d2qWSYMlwI\"",
+   "id": "UExXeHplTXN3OWM3UWZCMTRRSEFZOFVydjdjSXJUb21TZC45NDlDQUFFOThDMTAxQjUw",
+   "snippet": {
+    "publishedAt": "2019-01-23T19:48:56.000Z",
+    "channelId": "UCB_svpQtSv-VqSLBvjijGXQ",
+    "title": "CryJaxx, Wanden & Chris Linton - Rise Above (Tomatow Remix)",
+    "description": "Welcome to my channe l hope you can help:\n🌟🌟Please subscrire Channel :http://www.youtube.com/user/NighTcoreFC\n\n🌟Please help like Fanpage : https://www.facebook.com/AMAZGM/\n------------------------------------------------------- Amazing Gaming Music is the vibe music. we promo and trending new track.\n\n♥Song : CryJaxx, Wanden & Chris Linton - Rise Above (Tomatow Remix)\n\n♥Genre: Future Bass\n\n♥Link Download :\nFree Download: https://illicitlabel.com/track/ramvr\nSpotify: https://open.spotify.com/track/0vqvVIPiQvY5tQXjRTrfiz\n\nFollow CryJaxx\nhttps://soundcloud.com/cryjaxx\nhttps://www.facebook.com/CryJaxx\n\nFollow Wanden\nhttps://soundcloud.com/wanden\nhttps://www.facebook.com/wandenmusic/\n\nFollow Chris Linton\nhttps://soundcloud.com/chris-linton-1\n\nFollow Tomatow \nhttps://soundcloud.com/tomatow\nhttps://www.facebook.com/tomatowmusic/\n\nFollow ILLICIT\nhttps://illicitlabel.com/demo/\nhttps://www.facebook.com/officialillicit/?fref=ts\nhttps://www.instagram.com/illicitteam/\nhttps://soundcloud.com/illicitofficial\n\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n©Artwork render by: \n\n►Link PICTURE → https://wall.alphacoders.com/big.php?i=567656\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\nLink donate : https://streamlabs.com/nightcorefc\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n★ Follow Amazing Gaming Music\n▶Facebook  :https://www.facebook.com/NCMusicPromo/\n▶soundcloud:https://www.facebook.com/AMAZGM/\n▶twitter          :https://twitter.com/NFCPROMO\n▶Channel 1 :http://www.youtube.com/user/NighTcoreFC\n▶Channel 2 :http://www.youtube.com/user/DeadMusicFC\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n----------------------------------------------------------------------------------------\n•IMPORTANT: \nIf any artist or label has copyright issues with my videos (including artists of the images used), please send an e-mail to: ziiyoy7@gmail.com and I will remove it immediately! Welcome to my channe l hope you can help:\n🌟🌟Please subscrire Channel : http://www.youtube.com/user/NighTcoreFC\n🌟Please help like Fanpage : https://www.facebook.com/AMAZGM/\n-------------------------------------------------------",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/z9ZmorCfovw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/z9ZmorCfovw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/z9ZmorCfovw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/z9ZmorCfovw/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/z9ZmorCfovw/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "CRYJAXX",
+    "playlistId": "PLWxzeMsw9c7QfB14QHAY8Urv7cIrTomSd",
+    "position": 31,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "z9ZmorCfovw"
+    }
+   },
+   "contentDetails": {
+    "videoId": "z9ZmorCfovw",
+    "videoPublishedAt": "2018-06-01T23:00:02.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/ZD33TXmHKkA9CbJcXOKfNMraKzA\"",
+   "id": "UExXeHplTXN3OWM3UWZCMTRRSEFZOFVydjdjSXJUb21TZC44QTA1QTQyRTc3M0VGQzYx",
+   "snippet": {
+    "publishedAt": "2019-03-18T15:55:41.000Z",
+    "channelId": "UCB_svpQtSv-VqSLBvjijGXQ",
+    "title": "CryJaxx, Wanden & Chris Linton - Rise Above (Marin Hoxha Remix)",
+    "description": "Welcome to my channe l hope you can help:\n🌟🌟Please subscrire Channel :http://www.youtube.com/user/NighTcoreFC\n\n🌟Please help like Fanpage : https://www.facebook.com/AMAZGM/\n------------------------------------------------------- Amazing Gaming Music is the vibe music. we promo and trending new track.\n\n♥Song : CryJaxx, Wanden & Chris Linton - Rise Above (Marin Hoxha Remix)\n\n♥Genre: Trap\n\n♥Link Download :\nFree Download: https://illicitlabel.com/track/ramvr\nSpotify: https://open.spotify.com/track/0vqvVIPiQvY5tQXjRTrfiz\n\nFollow CryJaxx\nhttps://soundcloud.com/cryjaxx\nhttps://www.facebook.com/CryJaxx\n\nFollow Wanden\nhttps://soundcloud.com/wanden\nhttps://www.facebook.com/wandenmusic/\n\nFollow Chris Linton\nhttps://soundcloud.com/chris-linton-1\n\nFollow Marin Hoxha\nhttps://soundcloud.com/marin-hoxha\nhttps://www.facebook.com/Marinhoxhamusic/?_rdc=1&_rdr\n\nFollow ILLICIT\nhttps://illicitlabel.com/demo/\nhttps://www.facebook.com/officialillicit/?fref=ts\nhttps://www.instagram.com/illicitteam/\nhttps://soundcloud.com/illicitofficial\n\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n©Artwork render by: \n\n►Link PICTURE → https://wall.alphacoders.com/big.php?i=661575\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\nLink donate : https://streamlabs.com/nightcorefc\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n★ Follow Amazing Gaming Music\n▶Facebook  :https://www.facebook.com/NCMusicPromo/\n▶soundcloud:https://www.facebook.com/AMAZGM/\n▶twitter          :https://twitter.com/NFCPROMO\n▶Channel 1 :http://www.youtube.com/user/NighTcoreFC\n▶Channel 2 :http://www.youtube.com/user/DeadMusicFC\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n----------------------------------------------------------------------------------------\n•IMPORTANT: \nIf any artist or label has copyright issues with my videos (including artists of the images used), please send an e-mail to: ziiyoy7@gmail.com and I will remove it immediately! Welcome to my channe l hope you can help:\n🌟🌟Please subscrire Channel : http://www.youtube.com/user/NighTcoreFC\n🌟Please help like Fanpage : https://www.facebook.com/AMAZGM/\n-------------------------------------------------------",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/_All4cQpzgc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/_All4cQpzgc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/_All4cQpzgc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/_All4cQpzgc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/_All4cQpzgc/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "CRYJAXX",
+    "playlistId": "PLWxzeMsw9c7QfB14QHAY8Urv7cIrTomSd",
+    "position": 32,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "_All4cQpzgc"
+    }
+   },
+   "contentDetails": {
+    "videoId": "_All4cQpzgc",
+    "videoPublishedAt": "2018-05-27T17:00:02.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/GHndP9KyAbniuedftUfnGCZygRA\"",
+   "id": "UExXeHplTXN3OWM3UWZCMTRRSEFZOFVydjdjSXJUb21TZC4wMDFGNzBEOTU4Q0Y1Q0RG",
+   "snippet": {
+    "publishedAt": "2019-03-18T15:52:12.000Z",
+    "channelId": "UCB_svpQtSv-VqSLBvjijGXQ",
+    "title": "Drake - God's Plan (CryJaxx & Exile ft. Macy Kate Remix)",
+    "description": "🔥 God's Plan (CryJaxx & Exile Remix) 🔥\nDownload: http://edmlead.net/gate/godsplancryjaxxremix\nSoundCloud: https://soundcloud.com/cryjaxxtoo/godsplan-remix\n\n👌 Trap Cosmos 👌\nWebsite: https://trapcosmos.com/\nTwitter: https://twitter.com/TrapCosmos\nSoundCloud: https://soundcloud.com/TrapCosmos\nInstagram: https://www.instagram.com/TrapCosmos\n\n👌 CRYJAXX 🌐 👌\nFacebook: https://trapcosmos.com/fb/R4K6TnG5fB\nYouTube: https://trapcosmos.com/yt/R4K6TnG5fB\nInstagram: https://trapcosmos.com/ig/R4K6TnG5fB\nTwitter: https://trapcosmos.com/tw/R4K6TnG5fB\nSpotify: https://open.spotify.com/artist/4FidvjA9dxE6bhpHGC6ns9\nSoundCloud: https://trapcosmos.com/sc/Z4K6bnG5fISwcx\nSoundCloud: https://trapcosmos.com/sc/W3G30VKid4OMbX6o0H_u\nSoundCloud: https://trapcosmos.com/sc/Z4K6bnG5fB\n\n👌 Exile 👌\nFacebook: https://trapcosmos.com/fb/c30nbXOqZXymfHmt0X22d3mk\nInstagram: https://trapcosmos.com/ig/c30nbXOqZXymfHmt0X22d3mk\nYouTube: https://trapcosmos.com/yt/WVOAdFV4cFODPUeEcAiDUV_ObUizR36S\nSpotify: https://open.spotify.com/artist/3UdLBxpsDj9SwLbch4iITD\nTwitter: https://trapcosmos.com/tw/c30kcHW5bXymcYWAbXN\nSoundCloud: https://trapcosmos.com/sc/c30nbXOqZXymfHmt0X22d3mk\n\n👌 Macy Kate 👌\nYouTube: https://youtu.be/v4AMsjc4iKs\n\n📷 Background 📷\nhttps://unsplash.com/photos/gFyy2Po7T-k\n\n💫 Epilepsy Warning 💫\nThe visuals accompanied with the track may trigger seizures to those with photosensitive epilepsy. Please be cautious.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ro_dMK_2EMY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ro_dMK_2EMY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ro_dMK_2EMY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/ro_dMK_2EMY/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/ro_dMK_2EMY/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "CRYJAXX",
+    "playlistId": "PLWxzeMsw9c7QfB14QHAY8Urv7cIrTomSd",
+    "position": 33,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ro_dMK_2EMY"
+    }
+   },
+   "contentDetails": {
+    "videoId": "ro_dMK_2EMY",
+    "videoPublishedAt": "2018-05-26T17:00:07.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/B3zOdEge4JGfLtgNPhWzSZs6-DE\"",
+   "id": "UExXeHplTXN3OWM3UWZCMTRRSEFZOFVydjdjSXJUb21TZC5EQkE3RTJCQTJEQkFBQTcz",
+   "snippet": {
+    "publishedAt": "2019-01-23T19:45:01.000Z",
+    "channelId": "UCB_svpQtSv-VqSLBvjijGXQ",
+    "title": "Halsey - Sorry (Zeus X Crona & CryJaxx Remix)",
+    "description": "Halsey - Sorry (Zeus X Crona & CryJaxx Remix) \n⮮ If you enjoyed, please be sure to like, share & subscribe ⮯ \n🔔 Turn on the bell to be the first who is listening to new music! \n➥http://bit.ly/2gM40R0\n\n\n\nHalsey - Sorry (Zeus X Crona & CryJaxx Remix) \n\n▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔\nFree Download:\nhttps://pumpyoursound.com/fangate/detail/47921-halsey-sorry-zeus-x-crona-cryjaxx-remix\n\nListen on Soundcloud:\nhttps://soundcloud.com/cryjaxxtoo/sorry-remix\n\n▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔\n»Support CryJaxx\nFacebook: https://www.facebook.com/CryJaxx\nYouTube: http://youtube.com/c/CryJaxx\nInstagram: https://instagram.com/CryJaxx\nTwitter: https://twitter.com/CryJaxx\nSpotify: https://open.spotify.com/artist/4FidvjA9dxE6bhpHGC6ns9\nSoundcloud: https://soundcloud.com/cryjaxxtoo\nSoundCloud: https://soundcloud.com/cryjaxx\n\n»Support Zeus x Crona \nSoundcloud: https://soundcloud.com/zeusandcrona\nFacebook: https://www.facebook.com/zeusandcrona\nYoutube: https://www.youtube.com/channel/UCMF9-j5fMg47lDFLiiAkFLQ\n\n\n»TheDropYouNeed\nhttps://soundcloud.com/thedropyouneed\nhttps://www.youtube.com/c/TheDropYouNeed\nhttps://www.instagram.com/thedropyouneed\nhttps://twitter.com/TheDropYouNeed\n\n▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔\n»Picture:\nhttps://alpha.wallhaven.cc/wallpaper/646362\n\nIf I didn't credit your artwork properly or if you wouldn't like me using it, please get in contact with me (thedropyouneed@gmail.com) and I will delete the video immediately.\n\n▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔\nCopyright free/royalty free music:\nhttps://www.youtube.com/playlist?list=PLCbgnTvbWmVd--TW8ZNEa9VdFv9hbr5VA\n\n▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔\nIMPORTANT!\n\nCopyright issues? Contact me at thedropyouneed@gmail.com and I will delete it immediately.\nNone of these images and songs were created/owned by me it's only uploaded to promote/support the artists.\n\n▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔\nFont used: http://www.dafont.com/de/blowbrush.font\n\nWant your track(s) on my channel?\n• Send a Soundcloud/Youtube link (otherwise I cant listen to it)\n• Include the copyright status (Copyright free / Copyrighted)\n• Include a FREE download link\n• Include ALL your Socialmedia links\nSubmit your track(s) to thedropyouneed@gmail.com\n\n\n\n---- Tags ----\nHalsey - Sorry (Zeus X Crona & CryJaxx Remix)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/18p56fgS68Y/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/18p56fgS68Y/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/18p56fgS68Y/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/18p56fgS68Y/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/18p56fgS68Y/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "CRYJAXX",
+    "playlistId": "PLWxzeMsw9c7QfB14QHAY8Urv7cIrTomSd",
+    "position": 34,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "18p56fgS68Y"
+    }
+   },
+   "contentDetails": {
+    "videoId": "18p56fgS68Y",
+    "videoPublishedAt": "2018-04-23T07:45:17.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/-aq0j1qdy4Pq0xRcIF7W8eBgKMo\"",
+   "id": "UExXeHplTXN3OWM3UWZCMTRRSEFZOFVydjdjSXJUb21TZC43NERCMDIzQzFBMERCMEE3",
+   "snippet": {
+    "publishedAt": "2018-04-29T19:56:52.000Z",
+    "channelId": "UCB_svpQtSv-VqSLBvjijGXQ",
+    "title": "CJMR - Abandoned (Lone)",
+    "description": "Welcome to my channe l hope you can help:\n🌟🌟Please subscrire Channel :http://www.youtube.com/user/NighTcoreFC\n\n🌟Please help like Fanpage : https://www.facebook.com/AMAZGM/\n------------------------------------------------------- Amazing Gaming Music is the vibe music. we promo and trending new track.\n\n♥Song : CJMR - Abandoned (Lone)\n\n♥Genre: Chill\n\n♥Link Download : https://pumpyoursound.com/fangate/detail/47265-cjmr-abandoned-lone\n\nFollow CJMR \nhttps://soundcloud.com/CJMRmusic\nhttps://twitter.com/CJMRMusic\n\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n©Artwork render by: \n\n►Link PICTURE → https://wall.alphacoders.com/big.php?i=520273\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\nLink donate : https://streamlabs.com/nightcorefc\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n★ Follow Amazing Gaming Music\n▶Facebook  :https://www.facebook.com/NCMusicPromo/\n▶soundcloud:https://www.facebook.com/AMAZGM/\n▶twitter          :https://twitter.com/NFCPROMO\n▶Channel 1 :http://www.youtube.com/user/NighTcoreFC\n▶Channel 2 :http://www.youtube.com/user/DeadMusicFC\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n----------------------------------------------------------------------------------------\n•IMPORTANT: \nIf any artist or label has copyright issues with my videos (including artists of the images used), please send an e-mail to: ziiyoy7@gmail.com and I will remove it immediately! Welcome to my channe l hope you can help:\n🌟🌟Please subscrire Channel : http://www.youtube.com/user/NighTcoreFC\n🌟Please help like Fanpage : https://www.facebook.com/AMAZGM/\n-------------------------------------------------------",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/DXbthm9sK6M/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/DXbthm9sK6M/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/DXbthm9sK6M/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/DXbthm9sK6M/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/DXbthm9sK6M/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "CRYJAXX",
+    "playlistId": "PLWxzeMsw9c7QfB14QHAY8Urv7cIrTomSd",
+    "position": 35,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "DXbthm9sK6M"
+    }
+   },
+   "contentDetails": {
+    "videoId": "DXbthm9sK6M",
+    "videoPublishedAt": "2018-04-29T17:00:01.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/1Rf8W4AjtIBZrJvsCHcuZ27maUk\"",
+   "id": "UExXeHplTXN3OWM3UWZCMTRRSEFZOFVydjdjSXJUb21TZC4xMzgwMzBERjQ4NjEzNUE5",
+   "snippet": {
+    "publishedAt": "2018-03-29T18:52:57.000Z",
+    "channelId": "UCB_svpQtSv-VqSLBvjijGXQ",
+    "title": "CryJaxx, Wanden & Chris Linton - Rise Above (Marvin Vogel Remix)",
+    "description": "Future House Cloud - Your cloud for future & deep house music!\n» Follow our Spotify Playlist - https://goo.gl/mvXU7a\n» Download/Stream - https://goo.gl/58GcQz\n\n• Follow Future House Cloud\n» https://soundcloud.com/future-house-cloud\n» https://www.facebook.com/futurehousecloud\n» https://www.instagram.com/futurehousecloud\n» https://twitter.com/futurehouscloud\n» http://futurehousecloud.com\n\n• Follow our Spotify Playlists\n» Top Future House - https://goo.gl/mvXU7a\n» Our latest Releases - https://goo.gl/m8SSh1\n» Motivation & Workout - https://goo.gl/h139ar\n» YouTube Uploads - https://goo.gl/t9rWpQ\n» Best Club Music - https://goo.gl/Xo4vyu\n» Electro Chillout - https://goo.gl/qzUhSy\n» Release Radar - https://goo.gl/fjaxyi\n\n• Follow Marvin Vogel \n» https://soundcloud.com/marvinvogelofficial\n» https://www.facebook.com/marvinvogelofficial\n» https://www.instagram.com/marvin.vog/\n\n• Follow ILLICIT\n» https://soundcloud.com/illicitofficial\n» https://www.facebook.com/officialillicit/?fref=ts\n» https://www.instagram.com/illicitteam/\n» https://illicitlabel.com/\n___\n\n• Submit your track - http://goo.gl/unGSrd\n• Contact - contact@futurehousecloud.com\n\n• Turn on the '🔔' to get notifications for new uploads!\n\nTags:\n#futurehousecloud #housemusic #futurehouse #deephouse #basshouse #electrohouse #edm #electronic #electronicmusic #dance #dancemusic #summermusic #music #newmusic",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/nvqimTSyjfw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/nvqimTSyjfw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/nvqimTSyjfw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/nvqimTSyjfw/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/nvqimTSyjfw/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "CRYJAXX",
+    "playlistId": "PLWxzeMsw9c7QfB14QHAY8Urv7cIrTomSd",
+    "position": 36,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "nvqimTSyjfw"
+    }
+   },
+   "contentDetails": {
+    "videoId": "nvqimTSyjfw",
+    "videoPublishedAt": "2018-03-29T16:10:54.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/p5Zaht-ngk_LWZfQytPvyRLEosc\"",
+   "id": "UExXeHplTXN3OWM3UWZCMTRRSEFZOFVydjdjSXJUb21TZC4wMTYxQzVBRDI1NEVDQUZE",
+   "snippet": {
+    "publishedAt": "2018-06-02T17:08:43.000Z",
+    "channelId": "UCB_svpQtSv-VqSLBvjijGXQ",
+    "title": "Marshmello & Anne-Marie - FRIENDS (CryJaxx & Marin Hoxha Remix)",
+    "description": "Download: https://soundcloud.com/cryjaxxtoo/friends-remix\n\nFollow Dubstep  N Trap:\nYouTube - https://www.youtube.com/c/dubstepntrap2?sub_confirmation=1\nhttp://twitter.com/dubstepNtrap\nhttp://fb.com/DubstepNTrap/\nhttp://fb.com/Dubstep.BG\nhttps://instagram.com/dubstepntrap/\n\nFollow CryJaxx:\nhttps://soundcloud.com/CryJaxx\nhttps://twitter.com/CryJaxx\nhttps://youtube.com/c%2FCryJaxx\nhttps://instagram.com/cryjaxx/\n\nFollow Marin Hoxha:\nhttps://soundcloud.com/Marin-Hoxha\nhttps://twitter.com/MarinHoxha\nhttps://fb.com/Marinhoxhamusic/\nhttps://youtube.com/channel/UCnAbketHOrqM3cpsTv-vFAw\nhttps://instagram.com/marin.hoxha/\nhttps://open.spotify.com/artist/69kFCyHDE14cRD1cctCCcd\n\nFollow MARSHMELLO: \nhttp://spoti.fi/Marshmello\nhttp://soundcloud.com/marshmellomusic\nhttp://instagram.com/marshmellomusic\nhttp://twitter.com/marshmellomusic\nhttp://fb.com/marshmellomusic\nhttp://shop.marshmellomusic.com/\n\nFollow Anne-Marie:\nhttp://bit.ly/1FciNcA\nhttp://iamannemarie.com\nhttp://www.facebook.com/iamannemarie\nhttp://twitter.com/AnneMarieIAm\nhttps://instagram.com/annemarieiam\n\n🚫 The music and the background in the following video are not free to use, if you'd like to use the music in this video, please contact the artist.\n\n⚠️ These videos may cause people with photosensitive epilepsy to convulse in seizures. Viewer discretion is advised.\n\n#Trap #marshmello",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Fs14pY80wmA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Fs14pY80wmA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Fs14pY80wmA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Fs14pY80wmA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "CRYJAXX",
+    "playlistId": "PLWxzeMsw9c7QfB14QHAY8Urv7cIrTomSd",
+    "position": 37,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Fs14pY80wmA"
+    }
+   },
+   "contentDetails": {
+    "videoId": "Fs14pY80wmA",
+    "videoPublishedAt": "2018-04-19T14:26:42.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/3Az9P5cxewU-PWPXGvp5ZDMNP4U\"",
+   "id": "UExXeHplTXN3OWM3UWZCMTRRSEFZOFVydjdjSXJUb21TZC4xNTZBNUQxMDZBQzFGMjkw",
+   "snippet": {
+    "publishedAt": "2019-03-18T15:50:47.000Z",
+    "channelId": "UCB_svpQtSv-VqSLBvjijGXQ",
+    "title": "▶[Future Trap] ★ CryJaxx, Wanden & Chris Linton - Rise Above",
+    "description": "Welcome to my channe l hope you can help:\n🌟🌟Please subscrire Channel :http://www.youtube.com/user/NighTcoreFC\n\n🌟Please help like Fanpage : https://www.facebook.com/AMAZGM/\n------------------------------------------------------- Amazing Gaming Music is the vibe music. we promo and trending new track.\n\n♥Song : CryJaxx, Wanden & Chris Linton - Rise Above\n\n♥Genre: Future Trap\n\n♥Link Download : http://illicitlabel.com/track/riseabove\n\nFollow CryJaxx\nhttps://soundcloud.com/cryjaxx\nhttps://www.facebook.com/CryJaxx\nhttps://www.instagram.com/CryJaxx/\n\nFollow Wanden \nhttps://soundcloud.com/wanden\nhttps://www.facebook.com/wandenmusic/\nhttps://twitter.com/wandenmusic\n\nFollow Chris Linton\nhttps://soundcloud.com/chris-linton-1\nhttps://www.facebook.com/chrislintonmusic/?ref=hl\nhttps://twitter.com/lintonofficial\n\nFollow ILLICIT\nhttps://soundcloud.com/ILLICITofficial\nhttps://www.facebook.com/officialillicit/?fref=ts\n\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n©Artwork render by: \n\n►Link PICTURE → https://wall.alphacoders.com/big.php?i=183450\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\nLink donate : https://streamlabs.com/nightcorefc\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n★ Follow Amazing Gaming Music\n▶Facebook  :https://www.facebook.com/NCMusicPromo/\n▶soundcloud:https://www.facebook.com/AMAZGM/\n▶twitter          :https://twitter.com/NFCPROMO\n▶Channel 1 :http://www.youtube.com/user/NighTcoreFC\n▶Channel 2 :http://www.youtube.com/user/DeadMusicFC\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n----------------------------------------------------------------------------------------\n•IMPORTANT: \nIf any artist or label has copyright issues with my videos (including artists of the images used), please send an e-mail to: ziiyoy7@gmail.com and I will remove it immediately! Welcome to my channe l hope you can help:\n🌟🌟Please subscrire Channel : http://www.youtube.com/user/NighTcoreFC\n🌟Please help like Fanpage : https://www.facebook.com/AMAZGM/\n-------------------------------------------------------",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ha6rk3peMqQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ha6rk3peMqQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ha6rk3peMqQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/ha6rk3peMqQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/ha6rk3peMqQ/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "CRYJAXX",
+    "playlistId": "PLWxzeMsw9c7QfB14QHAY8Urv7cIrTomSd",
+    "position": 38,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ha6rk3peMqQ"
+    }
+   },
+   "contentDetails": {
+    "videoId": "ha6rk3peMqQ",
+    "videoPublishedAt": "2018-02-26T23:00:01.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/dZd4IwAWuFaotqycyOhHCsx7IA8\"",
+   "id": "UExXeHplTXN3OWM3UWZCMTRRSEFZOFVydjdjSXJUb21TZC4yQjZFRkExQjFGODk3RUFD",
+   "snippet": {
+    "publishedAt": "2018-02-15T19:56:38.000Z",
+    "channelId": "UCB_svpQtSv-VqSLBvjijGXQ",
+    "title": "▶[Chillstep] ★ CJMR - Crying Without You (Doom)",
+    "description": "Welcome to my channe l hope you can help:\n🌟🌟Please subscrire Channel :http://www.youtube.com/user/NighTcoreFC\n\n🌟Please help like Fanpage : https://www.facebook.com/AMAZGM/\n------------------------------------------------------- Amazing Gaming Music is the vibe music. we promo and trending new track.\n\n♥Song : CJMR - Crying Without You\n\n♥Genre:Chillstep\n\n♥Link Download : https://pumpyoursound.com/fangate/detail/43804-cjmr-crying-without-you-doom\n\nFollow CJMR \nhttps://soundcloud.com/CJMRmusic\nhttps://twitter.com/CJMRMusic\n\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n©Artwork render by: \n\n►Link PICTURE → https://wall.alphacoders.com/big.php?i=214104\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\nLink donate : https://streamlabs.com/nightcorefc\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n★ Follow Amazing Gaming Music\n▶Facebook  :https://www.facebook.com/NCMusicPromo/\n▶soundcloud:https://www.facebook.com/AMAZGM/\n▶twitter          :https://twitter.com/NFCPROMO\n▶Channel 1 :http://www.youtube.com/user/NighTcoreFC\n▶Channel 2 :http://www.youtube.com/user/DeadMusicFC\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n----------------------------------------------------------------------------------------\n•IMPORTANT: \nIf any artist or label has copyright issues with my videos (including artists of the images used), please send an e-mail to: ziiyoy7@gmail.com and I will remove it immediately! Welcome to my channe l hope you can help:\n🌟🌟Please subscrire Channel : http://www.youtube.com/user/NighTcoreFC\n🌟Please help like Fanpage : https://www.facebook.com/AMAZGM/\n-------------------------------------------------------",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/fxfiYLMDC3c/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/fxfiYLMDC3c/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/fxfiYLMDC3c/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/fxfiYLMDC3c/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/fxfiYLMDC3c/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "CRYJAXX",
+    "playlistId": "PLWxzeMsw9c7QfB14QHAY8Urv7cIrTomSd",
+    "position": 39,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "fxfiYLMDC3c"
+    }
+   },
+   "contentDetails": {
+    "videoId": "fxfiYLMDC3c",
+    "videoPublishedAt": "2018-02-14T05:00:01.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/O-V_6DpCo4-sfnb0j2szvQcEqLM\"",
+   "id": "UExXeHplTXN3OWM3UWZCMTRRSEFZOFVydjdjSXJUb21TZC5FQUY2Qzk4RUFDN0ZFRkZF",
+   "snippet": {
+    "publishedAt": "2019-01-23T19:52:21.000Z",
+    "channelId": "UCB_svpQtSv-VqSLBvjijGXQ",
+    "title": "The Chainsmokers - Sick Boy (Marin Hoxha & CryJaxx Remix)",
+    "description": "🔥 Download The Chainsmokers - Sick Boy (Marin Hoxha & CryJaxx Remix) 🔥\n↪︎https://soundcloud.com/cryjaxxtoo/sickboy-remix\nClick \"Show more\" to see important details!\n\n🔊 Beat Now 🔊\n●https://bit.ly/FacebookBeatNow\n●https://bit.ly/YouTubeBeatNow\n\n🎵 CryJaxx 🎵\n●https://soundcloud.com/CryJaxx\n●https://www.facebook.com/CryJaxx\n●https://twitter.com/CryJaxx\n●https://www.instagram.com/CryJaxx/\n●https://www.youtube.com/c/CryJaxx\n●https://open.spotify.com/artist/4FidvjA9dxE6bhpHGC6ns9\n●https://itunes.apple.com/us/artist/cryjaxx/1003448185\n\n 🎵 Marin Hoxha 🎵\n●https://www.youtube.com/thechainsmokers\n●https://twitter.com/thechainsmokers\n●https://www.facebook.com/Marinhoxhamusic\n●https://twitter.com/MarinHoxha\n●https://open.spotify.com/artist/0aI3r\n\n\n♫ Contact ♫ \n➥https://bit.ly/FacebookBeatNow\n\nIf you want to have this video removed, please facebook us.\n\n🚫 The music and the background in the following video are not free to use, if you'd like to use the music in this video, please contact the artist. 🚫\n\n⚠️ These videos may cause people with photosensitive epilepsy to convulse in seizures. Viewer discretion is advised. ⚠️",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/mAwWXKRbD0Y/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/mAwWXKRbD0Y/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/mAwWXKRbD0Y/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/mAwWXKRbD0Y/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/mAwWXKRbD0Y/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "CRYJAXX",
+    "playlistId": "PLWxzeMsw9c7QfB14QHAY8Urv7cIrTomSd",
+    "position": 40,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "mAwWXKRbD0Y"
+    }
+   },
+   "contentDetails": {
+    "videoId": "mAwWXKRbD0Y",
+    "videoPublishedAt": "2018-02-24T00:48:13.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/Jotf0S-hwCjILc8QMQeOgaZ-tBo\"",
+   "id": "UExXeHplTXN3OWM3UWZCMTRRSEFZOFVydjdjSXJUb21TZC44QzVGQUU2QjE2NDgxM0M4",
+   "snippet": {
+    "publishedAt": "2018-03-29T18:51:54.000Z",
+    "channelId": "UCB_svpQtSv-VqSLBvjijGXQ",
+    "title": "Dua Lipa - IDGAF (CryJaxx & Marin Hoxha Remix)",
+    "description": "🔥 Dua Lipa - IDGAF (CryJaxx & Marin Hoxha Remix)\n↪︎https://soundcloud.com/cryjaxxtoo/idgaf-remix\n👑 Trap Nation's limited apparel: https://nations.io\n\nSpotify Playlists\n➤ 💪Workout: http://spoti.fi/2sz8G7R\n➤ 🍦Chilltrap: http://spoti.fi/2qjSxy6\n➤ 🔥Trap Nation: http://spoti.fi/237iVZi\n\n🎵 CryJaxx\n✗ https://soundcloud.com/CryJaxx\n✗ https://www.facebook.com/CryJaxx\n✗ https://www.instagram.com/CryJaxx/\n✗ https://twitter.com/CryJaxx\n\n🎵 Marin Hoxha\n✗ https://soundcloud.com/Marin-Hoxha\n✗ https://www.facebook.com/Marinhoxhamusic/\n✗ https://twitter.com/MarinHoxha\n✗ https://www.instagram.com/marin.hoxha/\n\n🔊 Trap Nation\n✗ http://nations.io\n✗ http://twitter.com/alltrapnation\n✗ https://discord.gg/nations\n✗ http://instagram.com/trapnation\n✗ https://www.reddit.com/r/TrapNation\n✗ http://facebook.com/alltrapnation\n✗ http://soundcloud.com/alltrapnation\n✗ https://snapchat.com/add/trapnation\n✗ https://open.spotify.com/user/alltrapnation\n\n🚫 The music and the background in the following video are not free to use, if you'd like to use the music in this video, please contact the artist.\n\n⚠️ These videos may cause people with photosensitive epilepsy to convulse in seizures. Viewer discretion is advised.\n#trap",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/NuHTYUG76sg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/NuHTYUG76sg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/NuHTYUG76sg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/NuHTYUG76sg/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/NuHTYUG76sg/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "CRYJAXX",
+    "playlistId": "PLWxzeMsw9c7QfB14QHAY8Urv7cIrTomSd",
+    "position": 41,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "NuHTYUG76sg"
+    }
+   },
+   "contentDetails": {
+    "videoId": "NuHTYUG76sg",
+    "videoPublishedAt": "2018-02-18T18:30:21.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/ZyNdAybYTDpOv7usNw_Xir7IXrs\"",
+   "id": "UExXeHplTXN3OWM3UWZCMTRRSEFZOFVydjdjSXJUb21TZC40QTA3NTU2RkM1QzlCMzYx",
+   "snippet": {
+    "publishedAt": "2018-01-09T20:24:52.000Z",
+    "channelId": "UCB_svpQtSv-VqSLBvjijGXQ",
+    "title": "Reeck & CryJaxx - All Of You (feat. Harley Bird)",
+    "description": "AirwaveMusicTV - Music for your heart. 💜\nFacebook: https://facebook.com/AirwaveMusicTVOfficial\nInstagram: https://instagram.com/airwavemusictv_\nSoundcloud: https://soundcloud.com/airwavemusictv \nSpotify: http://spoti.fi/2yL5B3I\n\nSubscribe: http://bit.ly/1WUhw6Q ✅\n\nReeck & CryJaxx - All Of You (feat. Harley Bird)\n\n⏬ Download: https://fanlink.to/Aq5\n\n▶️ Reeck\nhttps://soundcloud.com/reeckmusic\nhttps://www.facebook.com/reeckmusics\nhttps://www.youtube.com/channel/UCKEZXXGEePbG9zOde_RquEA\n\n▶️ CryJaxx\nhttps://soundcloud.com/cryjaxx\nhttps://www.facebook.com/CryJaxx\nhttps://www.instagram.com/CryJaxx/\nhttps://twitter.com/CryJaxx\n\n▶️ Harley Bird\nhttps://soundcloud.com/harleybird\nhttps://www.facebook.com/harleybirdmusic\nhttps://www.instagram.com/harleybird/\n\nReleased by: Eyes On You Records\nhttps://soundcloud.com/eyesonyourecords\n\n📸 Photo credit: Austin Neill\nhttps://unsplash.com/@arstyy\n\n🔥 Recommended music for you:\nTritonal - Good Thing (Young In Mind Remix)\nAlan Walker ft. Noah Cyrus - All Falls Down (Wild Cards Remix)\nStahl! & John Kenza - Echo\nATB - Ecstasy (Pixel Terror Remix)\nThe Fray - How To Save A Life (Young In Mind Remix)\n\n🎁 Donate via PayPal and support my channel: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=8QATLXWBAW8BA\n\n✉️ Business inquiries & submissions: AirwaveMusicTV@gmail.com",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Jebr2QpGow0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Jebr2QpGow0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Jebr2QpGow0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Jebr2QpGow0/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Jebr2QpGow0/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "CRYJAXX",
+    "playlistId": "PLWxzeMsw9c7QfB14QHAY8Urv7cIrTomSd",
+    "position": 42,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Jebr2QpGow0"
+    }
+   },
+   "contentDetails": {
+    "videoId": "Jebr2QpGow0",
+    "videoPublishedAt": "2018-01-09T19:30:00.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/V_8ExtdaRshgpPR-wDrFVUw1rhQ\"",
+   "id": "UExXeHplTXN3OWM3UWZCMTRRSEFZOFVydjdjSXJUb21TZC45NkVENTkxRDdCQUFBMDY4",
+   "snippet": {
+    "publishedAt": "2018-01-18T22:46:08.000Z",
+    "channelId": "UCB_svpQtSv-VqSLBvjijGXQ",
+    "title": "▶[Hip hop] ★ CJMR ✖ BENJA - Till I Die (Ponder)",
+    "description": "Welcome to my channe l hope you can help:\n🌟🌟Please subscrire Channel :http://www.youtube.com/user/NighTcoreFC\n\n🌟Please help like Fanpage : https://www.facebook.com/AMAZGM/\n------------------------------------------------------- Amazing Gaming Music is the vibe music. we promo and trending new track.\n\n♥Song : CJMR ✖ BENJA - Till I Die (Ponder)\n\n♥Genre: Hip hop\n\n♥Live stream 24/7 : http://www.youtube.com/c/NighTcoreFC/live\n\n♥Link Download : https://pumpyoursound.com/fangate/detail/40852-cjmr-x-benja-till-i-die-ponder\n\nFollow CJMR \nhttps://soundcloud.com/cjmrmusic\n\nFollow BENJA \nhttps://soundcloud.com/thabenjaofficial\nhttps://www.facebook.com/Benja-312603908752926/?ref=hl\nhttps://www.instagram.com/tha_benja/\n\nFollow Wave Bass Kingdom\nhttps://soundcloud.com/wavebasskingdom\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n©Artwork render by: \n\n►Link PICTURE → https://www.deviantart.com/art/Render-Tsuna-198956988\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n▶ Please help us to develop Channel Amazing Gaming Music thank you\n▶Link donation :https://www.twitchalerts.com/donate/ziiyoyovietnam\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n★ Follow Amazing Gaming Music\n▶Facebook  :https://www.facebook.com/NCMusicPromo/\n▶soundcloud:https://soundcloud.com/nightcorefcp\n▶twitter          :https://twitter.com/NFCPROMO\n▶Channel 1 :http://www.youtube.com/user/NighTcoreFC\n▶Channel 2 :http://www.youtube.com/user/DeadMusicFC\n▶PLUG DJ :  https://plug.dj/amazing-gaming-music\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n----------------------------------------------------------------------------------------\n•IMPORTANT: \nIf any artist or label has copyright issues with my videos (including artists of the images used), please send an e-mail to: ziiyoy7@gmail.com and I will remove it immediately! Welcome to my channe l hope you can help:\n🌟🌟Please subscrire Channel : http://www.youtube.com/user/NighTcoreFC\n🌟Please help like Fanpage : https://www.facebook.com/AMAZGM/\n-------------------------------------------------------",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/HIIkxONNrm4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/HIIkxONNrm4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/HIIkxONNrm4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/HIIkxONNrm4/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/HIIkxONNrm4/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "CRYJAXX",
+    "playlistId": "PLWxzeMsw9c7QfB14QHAY8Urv7cIrTomSd",
+    "position": 43,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "HIIkxONNrm4"
+    }
+   },
+   "contentDetails": {
+    "videoId": "HIIkxONNrm4",
+    "videoPublishedAt": "2017-12-30T23:00:00.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/uv32QSRgEbt311CptEGTZqqXim8\"",
+   "id": "UExXeHplTXN3OWM3UWZCMTRRSEFZOFVydjdjSXJUb21TZC43MTI1NDIwOTMwQjIxMzNG",
+   "snippet": {
+    "publishedAt": "2017-11-22T20:57:29.000Z",
+    "channelId": "UCB_svpQtSv-VqSLBvjijGXQ",
+    "title": "▶[Big Room] ★ CryJaxx & Plusplay - Metal",
+    "description": "Welcome to my channe l hope you can help:\n🌟🌟Please subscrire Channel :http://www.youtube.com/user/NighTcoreFC\n\n🌟Please help like Fanpage : https://www.facebook.com/AMAZGM/\n------------------------------------------------------- Amazing Gaming Music is the vibe music. we promo and trending new track.\n\n♥Song : CryJaxx & Plusplay - Metal \n\n♥Genre: Big Room\n\n♥Live stream 24/7 : http://www.youtube.com/c/NighTcoreFC/live\n\n♥Link Download : https://pumpyoursound.com/fangate/detail/38652-cryjaxx-plusplay-metal-free-flp\n\nFollow CryJaxx\nhttps://soundcloud.com/CryJaxx\n• https://www.facebook.com/CryJaxx\n• https://www.twitter.com/CryJaxx\n• https://www.instagram.com/CryJaxx\n• https://www.youtube.com/c/CryJaxx\n\nFollow Plusplay\nhttps://soundcloud.com/plusplayofficial\n• https://www.facebook.com/plusplayofficial\n• https://www.instagram.com/plusplay\n• https://www.youtube.com/c/PlusPlaymusic\n\nFollow Wave Bass Kingdom\nhttps://soundcloud.com/wavebasskingdom\nhttps://www.youtube.com/channel/UCThytmb7jC2IV8O2tNUvKgg\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n©Artwork render by: \n\n►Link PICTURE → https://www.deviantart.com/art/Anime-Girl-With-Guns-Render-343579513\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n▶ Please help us to develop Channel Amazing Gaming Music thank you\n▶Link donation :https://www.twitchalerts.com/donate/ziiyoyovietnam\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n★ Follow Amazing Gaming Music\n▶Facebook  :https://www.facebook.com/NCMusicPromo/\n▶soundcloud:https://soundcloud.com/nightcorefcp\n▶twitter          :https://twitter.com/NFCPROMO\n▶Channel 1 :http://www.youtube.com/user/NighTcoreFC\n▶Channel 2 :http://www.youtube.com/user/DeadMusicFC\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n----------------------------------------------------------------------------------------\n•IMPORTANT: \nIf any artist or label has copyright issues with my videos (including artists of the images used), please send an e-mail to: ziiyoy7@gmail.com and I will remove it immediately! Welcome to my channe l hope you can help:\n🌟🌟Please subscrire Channel : http://www.youtube.com/user/NighTcoreFC\n🌟Please help like Fanpage : https://www.facebook.com/AMAZGM/\n-------------------------------------------------------",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/K5G27UwSIYg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/K5G27UwSIYg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/K5G27UwSIYg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/K5G27UwSIYg/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/K5G27UwSIYg/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "CRYJAXX",
+    "playlistId": "PLWxzeMsw9c7QfB14QHAY8Urv7cIrTomSd",
+    "position": 44,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "K5G27UwSIYg"
+    }
+   },
+   "contentDetails": {
+    "videoId": "K5G27UwSIYg",
+    "videoPublishedAt": "2017-11-22T05:00:01.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/qfGj5i-68Z94q-xUWw_sfsP4tAk\"",
+   "id": "UExXeHplTXN3OWM3UWZCMTRRSEFZOFVydjdjSXJUb21TZC42MTI4Njc2QjM1RjU1MjlG",
+   "snippet": {
+    "publishedAt": "2018-01-08T19:11:58.000Z",
+    "channelId": "UCB_svpQtSv-VqSLBvjijGXQ",
+    "title": "▶[Big Room] ★ CryJaxx - U Mess With Lords",
+    "description": "Welcome to my channe l hope you can help:\n🌟🌟Please subscrire Channel :http://www.youtube.com/user/NighTcoreFC\n\n🌟Please help like Fanpage : https://www.facebook.com/AMAZGM/\n------------------------------------------------------- Amazing Gaming Music is the vibe music. we promo and trending new track.\n\n♥Song : CryJaxx - U Mess With Lords\n\n♥Genre: Big Room\n\n♥Live stream 24/7 : http://www.youtube.com/c/NighTcoreFC/live\n\n♥Link Download : https://pumpyoursound.com/fangate/detail/35556-cryjaxx-u-mess-with-lords-original-mix\n\nFollow CryJaxx \nhttps://soundcloud.com/CryJaxx\n• https://www.facebook.com/CryJaxx\n• https://www.twitter.com/CryJaxx\n• https://www.instagram.com/CryJaxx\n• https://www.youtube.com/c/CryJaxx\n\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n©Artwork render by: \n\n►Link PICTURE →  https://kami-chan123.deviantart.com/art/YataMisaki-Render-By-Kamikami-367697766\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n▶ Please help us to develop Channel Amazing Gaming Music thank you\n▶Link donation :https://www.twitchalerts.com/donate/ziiyoyovietnam\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n★ Follow Amazing Gaming Music\n▶Facebook  :https://www.facebook.com/NCMusicPromo/\n▶soundcloud:https://www.facebook.com/AMAZGM/\n▶twitter          :https://twitter.com/NFCPROMO\n▶Channel 1 :http://www.youtube.com/user/NighTcoreFC\n▶Channel 2 :http://www.youtube.com/user/DeadMusicFC\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n----------------------------------------------------------------------------------------\n•IMPORTANT: \nIf any artist or label has copyright issues with my videos (including artists of the images used), please send an e-mail to: ziiyoy7@gmail.com and I will remove it immediately! Welcome to my channe l hope you can help:\n🌟🌟Please subscrire Channel : http://www.youtube.com/user/NighTcoreFC\n🌟Please help like Fanpage : https://www.facebook.com/AMAZGM/\n-------------------------------------------------------",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/PRHtRTIj6zQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/PRHtRTIj6zQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/PRHtRTIj6zQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/PRHtRTIj6zQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/PRHtRTIj6zQ/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "CRYJAXX",
+    "playlistId": "PLWxzeMsw9c7QfB14QHAY8Urv7cIrTomSd",
+    "position": 45,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "PRHtRTIj6zQ"
+    }
+   },
+   "contentDetails": {
+    "videoId": "PRHtRTIj6zQ",
+    "videoPublishedAt": "2018-01-08T05:00:04.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/XzkFw3RhjGTvMMgaBBpJwCXLNGI\"",
+   "id": "UExXeHplTXN3OWM3UWZCMTRRSEFZOFVydjdjSXJUb21TZC5DNzE1RjZEMUZCMjA0RDBB",
+   "snippet": {
+    "publishedAt": "2017-09-10T17:17:18.000Z",
+    "channelId": "UCB_svpQtSv-VqSLBvjijGXQ",
+    "title": "PL4YFIELDS, CryJaxx & Anxious - Emperor (feat. Rosendale) [Lyrics / Lyric Video]",
+    "description": "🔴 Listen to my 24/7 Live Radio on YouTube: https://www.youtube.com/sensualmusique1/live\n🎧 Check out our Playlists on Spotify for more Music: \nhttps://open.spotify.com/user/sensualmusique\n► Get \"PL4YFIELDS, CryJaxx, & Anxious - Emperor (feat. Rosendale)\" here: https://fanlink.to/emperor\n\n👉 Subscribe to our Channel: https://goo.gl/c4yta3\n\n🎧 More Music in our Playlists on Spotify ⤵\n💯 TOP 100: https://goo.gl/BLHh5Y\n🤙 The Good Life: https://goo.gl/8Wj1wx\n🌴 The Tropical Life: https://goo.gl/Q6WC86\n\n► Facebook : http://on.fb.me/1cN993h\n► SoundCloud : http://bit.ly/NCKn03\n► Twitter: http://bit.ly/1eQnq4A\n► Instagram: http://bit.ly/1fZ8m0S\n\n► Follow PL4YFIELDS here : \nFacebook: http://www.facebook.com/pl4yfieldsmusic\nSoundCloud: http://soundcloud.com/pl4yfieldsmusic\n\n► Follow Cryjaxx here : \nFacebook: http://www.facebook.com/cryjaxx\nSoundCloud: http://soundcloud.com/cryjaxx\n\n► Follow Rosendale here : \nFacebook: http://www.facebook.com/rosendalesings\nSoundCloud: http://soundcloud.com/rosendale\n\n✖ Picture \nhttp://bit.ly/SMbackgroundpics\n\nSensual Musique represents The Good Life by showcasing you the best of Deep House, Tropical House, Pop, Dance as well as Electronic Music.\n\n#sensualmusique #thegoodlife #chill #chillmusic #deephouse #housemusic #tropicalhouse #edm #electronic #electronicmusic  #dance #dancemusic #summermusic #music #newmusic",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/2j_IVW1y7Pg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/2j_IVW1y7Pg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/2j_IVW1y7Pg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/2j_IVW1y7Pg/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/2j_IVW1y7Pg/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "CRYJAXX",
+    "playlistId": "PLWxzeMsw9c7QfB14QHAY8Urv7cIrTomSd",
+    "position": 46,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "2j_IVW1y7Pg"
+    }
+   },
+   "contentDetails": {
+    "videoId": "2j_IVW1y7Pg",
+    "videoPublishedAt": "2017-09-10T16:33:04.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/flxMQFDyhsfd9ThdWgKPzMnm-vg\"",
+   "id": "UExXeHplTXN3OWM3UWZCMTRRSEFZOFVydjdjSXJUb21TZC45NzUwQkI1M0UxNThBMkU0",
+   "snippet": {
+    "publishedAt": "2017-09-08T17:58:01.000Z",
+    "channelId": "UCB_svpQtSv-VqSLBvjijGXQ",
+    "title": "Marin Hoxha & CryJaxx - Everlasting",
+    "description": "Frequency - Exploring Music Together\nSpotify Playlist: https://frequency.lnk.to/spotify\nApple Music Playlist: https://frequency.lnk.to/applemusic\n\nStream / Free download: https://frequency.lnk.to/everlastingID\n\nFollow us on\nInstagram → https://www.instagram.com/frequencymusic.co\nFacebook → https://www.facebook.com/frequencymusic.co\nSoundcloud → https://soundcloud.com/thisisfrequency\nTwitter → https://twitter.com/frequencymusico\n\nFollow Marin Hoxha\nhttps://soundcloud.com/marin-hoxha\nhttps://www.facebook.com/Marinhoxhamusic\nhttps://www.youtube.com/channel/UCnAbketHOrqM3cpsTv-vFAw\nhttps://www.instagram.com/marin.hoxha\n\nFollow CryJaxx\nhttps://soundcloud.com/cryjaxx\nhttps://www.facebook.com/CryJaxx\nhttps://www.instagram.com/CryJaxx\n\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\n\nFeel free using the song on YouTube & Twitch content without getting any copyright infringement.\n\nWhen you are using this track, please add this in your description:\n\nTrack: Marin Hoxha & CryJaxx - Everlasting\nLink: https://youtu.be/e3tN8hoDS_I\n\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\n\nRoyalty Free Music Playlist: https://frequency.lnk.to/royaltyfreeYT\n\n#Frequency\n#Royaltyfree\n#HouseMusic\n#ElectroHouse\n#GamingMusic",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/e3tN8hoDS_I/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/e3tN8hoDS_I/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/e3tN8hoDS_I/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/e3tN8hoDS_I/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/e3tN8hoDS_I/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "CRYJAXX",
+    "playlistId": "PLWxzeMsw9c7QfB14QHAY8Urv7cIrTomSd",
+    "position": 47,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "e3tN8hoDS_I"
+    }
+   },
+   "contentDetails": {
+    "videoId": "e3tN8hoDS_I",
+    "videoPublishedAt": "2017-09-08T17:47:36.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/kkZ1FGCHYLL4Lp_cvLFTxTIDgoM\"",
+   "id": "UExXeHplTXN3OWM3UWZCMTRRSEFZOFVydjdjSXJUb21TZC5CNTcxMDQ0NThBNzMxODYz",
+   "snippet": {
+    "publishedAt": "2018-07-20T19:02:19.000Z",
+    "channelId": "UCB_svpQtSv-VqSLBvjijGXQ",
+    "title": "▶[Big room] ★ CryJaxx ✖ Maydro - Ghostship [EDMR.TV EXCLUSIVE]",
+    "description": "Welcome to my channe l hope you can help:\n🌟🌟Please subscrire Channel :http://www.youtube.com/user/NighTcoreFC\n\n🌟Please help like Fanpage : https://www.facebook.com/AMAZGM/\n------------------------------------------------------- Amazing Gaming Music is the vibe music. we promo and trending new track.\n\n♥Song : CryJaxx ✖ Maydro - Ghostship [EDMR.TV EXCLUSIVE]\n\n♥Genre: Big room\n\n♥Live stream 24/7 : http://www.youtube.com/c/NighTcoreFC/live\n\n♥Link Download :https://soundcloud.com/edmrepoststv/edmtv076\n\nFollow CryJaxx \nhttps://soundcloud.com/cryjaxx\nhttps://facebook.com/CryJaxx\n\nFollow Maydro\nhttps://soundcloud.com/maydro\nhttps://facebook.com/maydroofficial\n\nFollow EDMR.TV\nhttps://soundcloud.com/edmrepoststv\nhttps://www.facebook.com/edmrepoststv\nhttps://www.youtube.com/edmrepoststv9\n\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n©Artwork render by:   Hwansang\nhttps://www.pixiv.net/member.php?id=2041879\n\n►Link PICTURE → https://www.deviantart.com/art/Render-132-567844834\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n▶ Please help us to develop Channel Amazing Gaming Music thank you\n▶Link donation :https://www.twitchalerts.com/donate/ziiyoyovietnam\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n★ Follow Amazing Gaming Music\n▶Facebook  :https://www.facebook.com/NCMusicPromo/\n▶soundcloud:https://soundcloud.com/nightcorefcp\n▶twitter          :https://twitter.com/NFCPROMO\n▶Channel 1 :http://www.youtube.com/user/NighTcoreFC\n▶Channel 2 :http://www.youtube.com/user/DeadMusicFC\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n----------------------------------------------------------------------------------------\n•IMPORTANT: \nIf any artist or label has copyright issues with my videos (including artists of the images used), please send an e-mail to: ziiyoy7@gmail.com and I will remove it immediately! Welcome to my channe l hope you can help:\n🌟🌟Please subscrire Channel : http://www.youtube.com/user/NighTcoreFC\n🌟Please help like Fanpage : https://www.facebook.com/AMAZGM/\n-------------------------------------------------------",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/4N8I9djTtD4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/4N8I9djTtD4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/4N8I9djTtD4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/4N8I9djTtD4/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/4N8I9djTtD4/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "CRYJAXX",
+    "playlistId": "PLWxzeMsw9c7QfB14QHAY8Urv7cIrTomSd",
+    "position": 48,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "4N8I9djTtD4"
+    }
+   },
+   "contentDetails": {
+    "videoId": "4N8I9djTtD4",
+    "videoPublishedAt": "2017-09-07T05:00:00.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"xwzn9fn_LczrfK9QS3iZcGzqRGs/zWeL7poFj9GHjyYlMXhHf9Xy2wA\"",
+   "id": "UExXeHplTXN3OWM3UWZCMTRRSEFZOFVydjdjSXJUb21TZC4yMDhBMkNBNjRDMjQxQTg1",
+   "snippet": {
+    "publishedAt": "2017-08-26T15:58:18.000Z",
+    "channelId": "UCB_svpQtSv-VqSLBvjijGXQ",
+    "title": "CryJaxx & J3ff Ray - All I Need (feat. Harley Bird) | Ninety9Lives Release",
+    "description": "Never worry about a copyright claim or strike again, Ninety9Lives music is safe to use!\nListen on Spotify → https://99l.tv/SpotifyID\n\nStream / Free Download: https://99l.tv/allineedID\n\nAll I Need is this song\n\nCryjaxx: https://ninety9lives.com/artists/cryjaxx\nJ3ff Ray: https://ninety9lives.com/artists/j3ff-ray\n\nFollow Ninety9Lives: https://99l.tv/SocialsID\n\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n\nNinety9Lives releases are free to use and monetize in user-generated content (UGC) made by independent content creators in video content on YouTube, Twitch & Mixer without the fear of copyright claims.\n\nIt's simple, just add this to your description:\n\nTrack: Cryjaxx & J3ff Ray - All I Need (feat. Harley Bird)\nMusic provided by Ninety9Lives\nStream / Free Download: https://99l.tv/allineedYU\n\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n\nQuestions?\nCheck out https://99l.tv/LicenseID for more information about using our music.\n\nIf you're a brand or a commercial organization interested in using Ninety9Lives music on YouTube or anywhere else (film, tv, commericals, video games, etc.), please get in touch with us at licensing[at]ninety9lives.com\n\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n\nWant to be a Ninety9Lives Artist? \nSubmit your track here → https://99l.tv/demosID\n\n© Ninety9Lives",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/i3npGkPtjOk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/i3npGkPtjOk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/i3npGkPtjOk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/i3npGkPtjOk/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/i3npGkPtjOk/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "CRYJAXX",
+    "playlistId": "PLWxzeMsw9c7QfB14QHAY8Urv7cIrTomSd",
+    "position": 49,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "i3npGkPtjOk"
+    }
+   },
+   "contentDetails": {
+    "videoId": "i3npGkPtjOk",
+    "videoPublishedAt": "2017-08-25T20:00:54.000Z"
+   }
+  }
+ ]
+}
